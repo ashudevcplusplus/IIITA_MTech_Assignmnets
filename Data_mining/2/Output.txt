@@ -1,0 +1,1463 @@
+('almonds', 'melons')    ->       {'avocado'}        confidence :  100.0
+('almonds', 'bacon')    ->       {'eggs'}        confidence :  100.0
+('almonds', 'bacon')    ->       {'mineral water'}        confidence :  100.0
+('almonds', 'barbecue sauce')    ->       {'ground beef'}        confidence :  75.0
+('almonds', 'blueberries')    ->       {'cake'}        confidence :  100.0
+('almonds', 'blueberries')    ->       {'chocolate'}        confidence :  100.0
+('almonds', 'blueberries')    ->       {'eggs'}        confidence :  100.0
+('almonds', 'blueberries')    ->       {'mineral water'}        confidence :  100.0
+('almonds', 'bug spray')    ->       {'chicken'}        confidence :  75.0
+('almonds', 'bug spray')    ->       {'spaghetti'}        confidence :  100.0
+('almonds', 'extra dark chocolate')    ->       {'burgers'}        confidence :  100.0
+('almonds', 'whole weat flour')    ->       {'butter'}        confidence :  100.0
+('almonds', 'cereals')    ->       {'green tea'}        confidence :  75.0
+('almonds', 'cereals')    ->       {'spaghetti'}        confidence :  75.0
+('almonds', 'green beans')    ->       {'chicken'}        confidence :  100.0
+('almonds', 'chili')    ->       {'chocolate'}        confidence :  100.0
+('almonds', 'chili')    ->       {'spaghetti'}        confidence :  100.0
+('almonds', 'flax seed')    ->       {'chocolate'}        confidence :  100.0
+('almonds', 'eggplant')    ->       {'mineral water'}        confidence :  100.0
+('almonds', 'tomato sauce')    ->       {'eggs'}        confidence :  71.42857142857143
+('almonds', 'extra dark chocolate')    ->       {'mineral water'}        confidence :  100.0
+('almonds', 'flax seed')    ->       {'milk'}        confidence :  100.0
+('almonds', 'melons')    ->       {'french fries'}        confidence :  100.0
+('almonds', 'gluten free bar')    ->       {'mineral water'}        confidence :  100.0
+('almonds', 'gluten free bar')    ->       {'pancakes'}        confidence :  100.0
+('almonds', 'whole weat flour')    ->       {'low fat yogurt'}        confidence :  100.0
+('almonds', 'melons')    ->       {'mineral water'}        confidence :  100.0
+('almonds', 'whole weat flour')    ->       {'milk'}        confidence :  100.0
+('almonds', 'nonfat milk')    ->       {'mineral water'}        confidence :  100.0
+('almonds', 'tomato sauce')    ->       {'mineral water'}        confidence :  85.71428571428571
+('almonds', 'pepper')    ->       {'spaghetti'}        confidence :  71.42857142857143
+('almonds', 'strong cheese')    ->       {'spaghetti'}        confidence :  83.33333333333334
+('antioxydant juice', 'avocado')    ->       {'frozen smoothie'}        confidence :  100.0
+('antioxydant juice', 'avocado')    ->       {'green tea'}        confidence :  100.0
+('antioxydant juice', 'avocado')    ->       {'oil'}        confidence :  100.0
+('antioxydant juice', 'eggplant')    ->       {'cereals'}        confidence :  100.0
+('antioxydant juice', 'shampoo')    ->       {'cereals'}        confidence :  100.0
+('antioxydant juice', 'tomato juice')    ->       {'cereals'}        confidence :  100.0
+('antioxydant juice', 'whole weat flour')    ->       {'cereals'}        confidence :  100.0
+('antioxydant juice', 'champagne')    ->       {'french fries'}        confidence :  100.0
+('antioxydant juice', 'chicken')    ->       {'chocolate'}        confidence :  80.0
+('antioxydant juice', 'chicken')    ->       {'mineral water'}        confidence :  80.0
+('antioxydant juice', 'white wine')    ->       {'chocolate'}        confidence :  100.0
+('antioxydant juice', 'whole wheat rice')    ->       {'chocolate bread'}        confidence :  100.0
+('antioxydant juice', 'eggplant')    ->       {'mineral water'}        confidence :  100.0
+('antioxydant juice', 'turkey')    ->       {'eggs'}        confidence :  100.0
+('antioxydant juice', 'vegetables mix')    ->       {'french fries'}        confidence :  100.0
+('antioxydant juice', 'pasta')    ->       {'french wine'}        confidence :  100.0
+('antioxydant juice', 'white wine')    ->       {'fresh bread'}        confidence :  100.0
+('antioxydant juice', 'turkey')    ->       {'frozen vegetables'}        confidence :  100.0
+('antioxydant juice', 'tomato juice')    ->       {'green tea'}        confidence :  100.0
+('antioxydant juice', 'white wine')    ->       {'green tea'}        confidence :  100.0
+('antioxydant juice', 'whole weat flour')    ->       {'green tea'}        confidence :  100.0
+('antioxydant juice', 'herb & pepper')    ->       {'low fat yogurt'}        confidence :  100.0
+('antioxydant juice', 'honey')    ->       {'low fat yogurt'}        confidence :  100.0
+('antioxydant juice', 'protein bar')    ->       {'mineral water'}        confidence :  100.0
+('antioxydant juice', 'rice')    ->       {'mineral water'}        confidence :  100.0
+('antioxydant juice', 'spinach')    ->       {'mineral water'}        confidence :  100.0
+('antioxydant juice', 'tomato juice')    ->       {'mineral water'}        confidence :  100.0
+('antioxydant juice', 'turkey')    ->       {'mineral water'}        confidence :  100.0
+('antioxydant juice', 'white wine')    ->       {'mineral water'}        confidence :  100.0
+('antioxydant juice', 'whole weat flour')    ->       {'mineral water'}        confidence :  100.0
+('antioxydant juice', 'shrimp')    ->       {'tomatoes'}        confidence :  75.0
+('antioxydant juice', 'tomato juice')    ->       {'whole weat flour'}        confidence :  100.0
+('antioxydant juice', 'whole weat flour')    ->       {'tomato juice'}        confidence :  100.0
+('asparagus', 'burger sauce')    ->       {'mineral water'}        confidence :  100.0
+('asparagus', 'burger sauce')    ->       {'spaghetti'}        confidence :  100.0
+('asparagus', 'cereals')    ->       {'mineral water'}        confidence :  100.0
+('asparagus', 'cereals')    ->       {'pancakes'}        confidence :  100.0
+('asparagus', 'ground beef')    ->       {'chocolate'}        confidence :  75.0
+('asparagus', 'extra dark chocolate')    ->       {'mineral water'}        confidence :  100.0
+('asparagus', 'red wine')    ->       {'french fries'}        confidence :  100.0
+('asparagus', 'frozen vegetables')    ->       {'mineral water'}        confidence :  100.0
+('asparagus', 'grated cheese')    ->       {'mineral water'}        confidence :  100.0
+('asparagus', 'ground beef')    ->       {'mineral water'}        confidence :  75.0
+('asparagus', 'herb & pepper')    ->       {'mineral water'}        confidence :  100.0
+('asparagus', 'pepper')    ->       {'milk'}        confidence :  100.0
+('asparagus', 'pepper')    ->       {'mineral water'}        confidence :  100.0
+('asparagus', 'salmon')    ->       {'mineral water'}        confidence :  80.0
+('asparagus', 'spaghetti')    ->       {'mineral water'}        confidence :  71.42857142857143
+('body spray', 'red wine')    ->       {'avocado'}        confidence :  75.0
+('avocado', 'mashed potato')    ->       {'cake'}        confidence :  100.0
+('avocado', 'sparkling water')    ->       {'chocolate'}        confidence :  75.0
+('chocolate bread', 'soup')    ->       {'avocado'}        confidence :  100.0
+('avocado', 'clothes accessories')    ->       {'spaghetti'}        confidence :  100.0
+('avocado', 'eggplant')    ->       {'escalope'}        confidence :  100.0
+('energy bar', 'tomato sauce')    ->       {'avocado'}        confidence :  100.0
+('avocado', 'vegetables mix')    ->       {'french fries'}        confidence :  71.42857142857143
+('avocado', 'sparkling water')    ->       {'frozen smoothie'}        confidence :  75.0
+('avocado', 'whole weat flour')    ->       {'frozen smoothie'}        confidence :  75.0
+('avocado', 'ketchup')    ->       {'milk'}        confidence :  100.0
+('avocado', 'ketchup')    ->       {'spaghetti'}        confidence :  100.0
+('avocado', 'ketchup')    ->       {'tomatoes'}        confidence :  100.0
+('avocado', 'mashed potato')    ->       {'turkey'}        confidence :  100.0
+('mashed potato', 'turkey')    ->       {'avocado'}        confidence :  100.0
+('avocado', 'meatballs')    ->       {'mineral water'}        confidence :  70.0
+('melons', 'zucchini')    ->       {'avocado'}        confidence :  100.0
+('avocado', 'tea')    ->       {'mineral water'}        confidence :  100.0
+('avocado', 'parmesan cheese')    ->       {'spaghetti'}        confidence :  77.77777777777779
+('avocado', 'tea')    ->       {'soup'}        confidence :  100.0
+('toothpaste', 'white wine')    ->       {'avocado'}        confidence :  100.0
+('babies food', 'bug spray')    ->       {'burgers'}        confidence :  100.0
+('babies food', 'bug spray')    ->       {'spaghetti'}        confidence :  100.0
+('babies food', 'chicken')    ->       {'burgers'}        confidence :  100.0
+('babies food', 'mineral water')    ->       {'burgers'}        confidence :  75.0
+('babies food', 'chicken')    ->       {'chocolate'}        confidence :  100.0
+('babies food', 'escalope')    ->       {'chocolate'}        confidence :  100.0
+('babies food', 'flax seed')    ->       {'chocolate'}        confidence :  100.0
+('babies food', 'magazines')    ->       {'chocolate'}        confidence :  100.0
+('babies food', 'oil')    ->       {'chocolate'}        confidence :  100.0
+('babies food', 'spaghetti')    ->       {'chocolate'}        confidence :  80.0
+('babies food', 'vegetables mix')    ->       {'chocolate'}        confidence :  100.0
+('babies food', 'oil')    ->       {'escalope'}        confidence :  100.0
+('babies food', 'flax seed')    ->       {'shrimp'}        confidence :  100.0
+('babies food', 'frozen smoothie')    ->       {'french fries'}        confidence :  100.0
+('babies food', 'magazines')    ->       {'french fries'}        confidence :  100.0
+('babies food', 'pepper')    ->       {'french fries'}        confidence :  100.0
+('babies food', 'frozen vegetables')    ->       {'milk'}        confidence :  100.0
+('babies food', 'ham')    ->       {'milk'}        confidence :  100.0
+('babies food', 'ham')    ->       {'mineral water'}        confidence :  100.0
+('babies food', 'magazines')    ->       {'pepper'}        confidence :  100.0
+('babies food', 'mineral water')    ->       {'milk'}        confidence :  100.0
+('babies food', 'soup')    ->       {'milk'}        confidence :  100.0
+('babies food', 'whole wheat pasta')    ->       {'shrimp'}        confidence :  100.0
+('bacon', 'black tea')    ->       {'burgers'}        confidence :  100.0
+('bacon', 'blueberries')    ->       {'turkey'}        confidence :  100.0
+('bacon', 'cake')    ->       {'mineral water'}        confidence :  71.42857142857143
+('bacon', 'cereals')    ->       {'mineral water'}        confidence :  100.0
+('bacon', 'ham')    ->       {'chicken'}        confidence :  100.0
+('bacon', 'magazines')    ->       {'chicken'}        confidence :  100.0
+('bacon', 'hot dogs')    ->       {'chocolate'}        confidence :  75.0
+('bacon', 'toothpaste')    ->       {'chocolate'}        confidence :  100.0
+('bacon', 'melons')    ->       {'cooking oil'}        confidence :  100.0
+('bacon', 'soup')    ->       {'cooking oil'}        confidence :  80.0
+('bacon', 'white wine')    ->       {'eggs'}        confidence :  100.0
+('bacon', 'fresh tuna')    ->       {'pancakes'}        confidence :  100.0
+('bacon', 'fromage blanc')    ->       {'mineral water'}        confidence :  100.0
+('bacon', 'frozen vegetables')    ->       {'spaghetti'}        confidence :  75.0
+('bacon', 'soda')    ->       {'green tea'}        confidence :  100.0
+('bacon', 'soda')    ->       {'ground beef'}        confidence :  100.0
+('bacon', 'white wine')    ->       {'ground beef'}        confidence :  100.0
+('bacon', 'ham')    ->       {'whole wheat pasta'}        confidence :  100.0
+('bacon', 'herb & pepper')    ->       {'spaghetti'}        confidence :  75.0
+('bacon', 'salt')    ->       {'ketchup'}        confidence :  100.0
+('bacon', 'light cream')    ->       {'mineral water'}        confidence :  100.0
+('bacon', 'light cream')    ->       {'soup'}        confidence :  100.0
+('bacon', 'magazines')    ->       {'milk'}        confidence :  100.0
+('bacon', 'meatballs')    ->       {'spaghetti'}        confidence :  75.0
+('bacon', 'melons')    ->       {'turkey'}        confidence :  100.0
+('bacon', 'tomato sauce')    ->       {'milk'}        confidence :  75.0
+('bacon', 'parmesan cheese')    ->       {'mineral water'}        confidence :  100.0
+('bacon', 'spinach')    ->       {'mineral water'}        confidence :  100.0
+('bacon', 'oil')    ->       {'pancakes'}        confidence :  100.0
+('bacon', 'parmesan cheese')    ->       {'olive oil'}        confidence :  100.0
+('bacon', 'pancakes')    ->       {'spaghetti'}        confidence :  81.25
+('bacon', 'toothpaste')    ->       {'pancakes'}        confidence :  100.0
+('bacon', 'shrimp')    ->       {'spaghetti'}        confidence :  75.0
+('bacon', 'soda')    ->       {'spaghetti'}        confidence :  100.0
+('bacon', 'tomato sauce')    ->       {'spaghetti'}        confidence :  75.0
+('bacon', 'tomatoes')    ->       {'spaghetti'}        confidence :  80.0
+('bacon', 'toothpaste')    ->       {'spaghetti'}        confidence :  100.0
+('bacon', 'white wine')    ->       {'spaghetti'}        confidence :  100.0
+('barbecue sauce', 'black tea')    ->       {'eggs'}        confidence :  80.0
+('barbecue sauce', 'brownies')    ->       {'oil'}        confidence :  100.0
+('barbecue sauce', 'burger sauce')    ->       {'eggs'}        confidence :  100.0
+('barbecue sauce', 'burger sauce')    ->       {'turkey'}        confidence :  100.0
+('barbecue sauce', 'french wine')    ->       {'burgers'}        confidence :  100.0
+('barbecue sauce', 'cereals')    ->       {'mineral water'}        confidence :  75.0
+('barbecue sauce', 'chili')    ->       {'french fries'}        confidence :  100.0
+('barbecue sauce', 'chili')    ->       {'whole weat flour'}        confidence :  100.0
+('barbecue sauce', 'chocolate')    ->       {'mineral water'}        confidence :  76.92307692307693
+('barbecue sauce', 'clothes accessories')    ->       {'mineral water'}        confidence :  100.0
+('barbecue sauce', 'clothes accessories')    ->       {'rice'}        confidence :  100.0
+('barbecue sauce', 'cookies')    ->       {'eggs'}        confidence :  71.42857142857143
+('barbecue sauce', 'french wine')    ->       {'eggs'}        confidence :  100.0
+('barbecue sauce', 'olive oil')    ->       {'eggs'}        confidence :  100.0
+('barbecue sauce', 'pepper')    ->       {'eggs'}        confidence :  75.0
+('barbecue sauce', 'salt')    ->       {'eggs'}        confidence :  75.0
+('barbecue sauce', 'vegetables mix')    ->       {'eggs'}        confidence :  75.0
+('barbecue sauce', 'pet food')    ->       {'french fries'}        confidence :  100.0
+('barbecue sauce', 'salt')    ->       {'french fries'}        confidence :  75.0
+('barbecue sauce', 'grated cheese')    ->       {'frozen smoothie'}        confidence :  100.0
+('barbecue sauce', 'grated cheese')    ->       {'ground beef'}        confidence :  100.0
+('barbecue sauce', 'sparkling water')    ->       {'ground beef'}        confidence :  100.0
+('barbecue sauce', 'ham')    ->       {'spaghetti'}        confidence :  100.0
+('barbecue sauce', 'low fat yogurt')    ->       {'mineral water'}        confidence :  75.0
+('barbecue sauce', 'olive oil')    ->       {'mineral water'}        confidence :  100.0
+('barbecue sauce', 'rice')    ->       {'mineral water'}        confidence :  100.0
+('barbecue sauce', 'yams')    ->       {'mineral water'}        confidence :  100.0
+('barbecue sauce', 'yams')    ->       {'pancakes'}        confidence :  100.0
+('barbecue sauce', 'pet food')    ->       {'red wine'}        confidence :  100.0
+('barbecue sauce', 'yams')    ->       {'whole wheat rice'}        confidence :  100.0
+('black tea', 'blueberries')    ->       {'milk'}        confidence :  100.0
+('black tea', 'brownies')    ->       {'mineral water'}        confidence :  75.0
+('black tea', 'bug spray')    ->       {'pancakes'}        confidence :  100.0
+('black tea', 'bug spray')    ->       {'pepper'}        confidence :  100.0
+('black tea', 'butter')    ->       {'eggs'}        confidence :  100.0
+('black tea', 'butter')    ->       {'milk'}        confidence :  100.0
+('black tea', 'cereals')    ->       {'milk'}        confidence :  80.0
+('black tea', 'eggplant')    ->       {'chicken'}        confidence :  75.0
+('black tea', 'toothpaste')    ->       {'chocolate'}        confidence :  100.0
+('black tea', 'chutney')    ->       {'milk'}        confidence :  100.0
+('black tea', 'chutney')    ->       {'mineral water'}        confidence :  100.0
+('black tea', 'cider')    ->       {'milk'}        confidence :  100.0
+('black tea', 'cider')    ->       {'spaghetti'}        confidence :  100.0
+('black tea', 'eggplant')    ->       {'spaghetti'}        confidence :  75.0
+('black tea', 'energy drink')    ->       {'eggs'}        confidence :  100.0
+('black tea', 'nonfat milk')    ->       {'eggs'}        confidence :  100.0
+('black tea', 'turkey')    ->       {'eggs'}        confidence :  73.33333333333333
+('black tea', 'energy bar')    ->       {'mineral water'}        confidence :  75.0
+('black tea', 'energy bar')    ->       {'spaghetti'}        confidence :  75.0
+('black tea', 'french wine')    ->       {'spaghetti'}        confidence :  70.0
+('black tea', 'fresh bread')    ->       {'mineral water'}        confidence :  83.33333333333334
+('black tea', 'fresh tuna')    ->       {'spaghetti'}        confidence :  71.42857142857143
+('black tea', 'fromage blanc')    ->       {'olive oil'}        confidence :  100.0
+('black tea', 'frozen smoothie')    ->       {'milk'}        confidence :  81.81818181818183
+('black tea', 'nonfat milk')    ->       {'ground beef'}        confidence :  100.0
+('black tea', 'light cream')    ->       {'olive oil'}        confidence :  100.0
+('black tea', 'light cream')    ->       {'spaghetti'}        confidence :  100.0
+('black tea', 'mayonnaise')    ->       {'spaghetti'}        confidence :  100.0
+('black tea', 'nonfat milk')    ->       {'milk'}        confidence :  100.0
+('black tea', 'soup')    ->       {'milk'}        confidence :  70.0
+('black tea', 'spinach')    ->       {'milk'}        confidence :  100.0
+('black tea', 'mint')    ->       {'mineral water'}        confidence :  75.0
+('black tea', 'nonfat milk')    ->       {'mineral water'}        confidence :  100.0
+('black tea', 'olive oil')    ->       {'mineral water'}        confidence :  69.23076923076923
+('black tea', 'salmon')    ->       {'mineral water'}        confidence :  80.0
+('black tea', 'spinach')    ->       {'mineral water'}        confidence :  100.0
+('black tea', 'pepper')    ->       {'spaghetti'}        confidence :  77.77777777777779
+('black tea', 'salmon')    ->       {'spaghetti'}        confidence :  70.0
+('black tea', 'strong cheese')    ->       {'spaghetti'}        confidence :  75.0
+('black tea', 'tomato sauce')    ->       {'spaghetti'}        confidence :  100.0
+('blueberries', 'brownies')    ->       {'mineral water'}        confidence :  100.0
+('blueberries', 'brownies')    ->       {'pancakes'}        confidence :  100.0
+('blueberries', 'carrots')    ->       {'light cream'}        confidence :  100.0
+('blueberries', 'carrots')    ->       {'mineral water'}        confidence :  100.0
+('blueberries', 'cereals')    ->       {'spaghetti'}        confidence :  75.0
+('blueberries', 'chicken')    ->       {'mineral water'}        confidence :  77.77777777777779
+('blueberries', 'nonfat milk')    ->       {'chocolate'}        confidence :  100.0
+('blueberries', 'oil')    ->       {'chocolate'}        confidence :  80.0
+('blueberries', 'protein bar')    ->       {'cooking oil'}        confidence :  100.0
+('blueberries', 'eggs')    ->       {'mineral water'}        confidence :  75.0
+('blueberries', 'fresh tuna')    ->       {'light cream'}        confidence :  100.0
+('blueberries', 'fresh tuna')    ->       {'mineral water'}        confidence :  100.0
+('blueberries', 'fromage blanc')    ->       {'spaghetti'}        confidence :  100.0
+('blueberries', 'whole weat flour')    ->       {'grated cheese'}        confidence :  100.0
+('blueberries', 'protein bar')    ->       {'ground beef'}        confidence :  100.0
+('blueberries', 'vegetables mix')    ->       {'ham'}        confidence :  100.0
+('blueberries', 'hot dogs')    ->       {'mineral water'}        confidence :  75.0
+('blueberries', 'hot dogs')    ->       {'spaghetti'}        confidence :  100.0
+('blueberries', 'light cream')    ->       {'mineral water'}        confidence :  75.0
+('blueberries', 'magazines')    ->       {'mineral water'}        confidence :  100.0
+('blueberries', 'meatballs')    ->       {'spaghetti'}        confidence :  100.0
+('blueberries', 'rice')    ->       {'milk'}        confidence :  75.0
+('blueberries', 'pancakes')    ->       {'mineral water'}        confidence :  72.72727272727273
+('blueberries', 'tea')    ->       {'mineral water'}        confidence :  100.0
+('blueberries', 'whole weat flour')    ->       {'mineral water'}        confidence :  100.0
+('blueberries', 'parmesan cheese')    ->       {'spaghetti'}        confidence :  100.0
+('blueberries', 'protein bar')    ->       {'spaghetti'}        confidence :  100.0
+('blueberries', 'red wine')    ->       {'spaghetti'}        confidence :  100.0
+('blueberries', 'rice')    ->       {'spaghetti'}        confidence :  75.0
+('blueberries', 'tomato sauce')    ->       {'spaghetti'}        confidence :  75.0
+('blueberries', 'whole wheat rice')    ->       {'spaghetti'}        confidence :  71.42857142857143
+('blueberries', 'yogurt cake')    ->       {'spaghetti'}        confidence :  100.0
+('body spray', 'strawberries')    ->       {'cake'}        confidence :  100.0
+('body spray', 'green beans')    ->       {'chocolate'}        confidence :  100.0
+('body spray', 'chocolate bread')    ->       {'fresh bread'}        confidence :  100.0
+('body spray', 'cottage cheese')    ->       {'mineral water'}        confidence :  75.0
+('body spray', 'energy bar')    ->       {'french fries'}        confidence :  80.0
+('body spray', 'soda')    ->       {'energy drink'}        confidence :  100.0
+('body spray', 'rice')    ->       {'french fries'}        confidence :  75.0
+('body spray', 'frozen vegetables')    ->       {'mineral water'}        confidence :  83.33333333333334
+('body spray', 'nonfat milk')    ->       {'gluten free bar'}        confidence :  100.0
+('body spray', 'green beans')    ->       {'spaghetti'}        confidence :  100.0
+('body spray', 'ground beef')    ->       {'spaghetti'}        confidence :  71.42857142857143
+('body spray', 'nonfat milk')    ->       {'light mayo'}        confidence :  100.0
+('body spray', 'low fat yogurt')    ->       {'mineral water'}        confidence :  100.0
+('body spray', 'mint')    ->       {'protein bar'}        confidence :  100.0
+('body spray', 'mint')    ->       {'vegetables mix'}        confidence :  100.0
+('body spray', 'pepper')    ->       {'spaghetti'}        confidence :  100.0
+('body spray', 'strawberries')    ->       {'soup'}        confidence :  100.0
+('bramble', 'chocolate')    ->       {'pepper'}        confidence :  100.0
+('bramble', 'eggs')    ->       {'turkey'}        confidence :  75.0
+('bramble', 'turkey')    ->       {'eggs'}        confidence :  75.0
+('bramble', 'french fries')    ->       {'green tea'}        confidence :  100.0
+('bramble', 'frozen smoothie')    ->       {'mineral water'}        confidence :  100.0
+('bramble', 'shrimp')    ->       {'frozen smoothie'}        confidence :  100.0
+('bramble', 'salmon')    ->       {'grated cheese'}        confidence :  100.0
+('bramble', 'ground beef')    ->       {'green tea'}        confidence :  100.0
+('bramble', 'green tea')    ->       {'turkey'}        confidence :  75.0
+('bramble', 'turkey')    ->       {'green tea'}        confidence :  75.0
+('bramble', 'ground beef')    ->       {'tomatoes'}        confidence :  100.0
+('bramble', 'ham')    ->       {'tomatoes'}        confidence :  100.0
+('bramble', 'shrimp')    ->       {'mineral water'}        confidence :  100.0
+('bramble', 'tomatoes')    ->       {'mineral water'}        confidence :  75.0
+('bramble', 'salmon')    ->       {'vegetables mix'}        confidence :  100.0
+('brownies', 'bug spray')    ->       {'mineral water'}        confidence :  100.0
+('brownies', 'chili')    ->       {'energy drink'}        confidence :  100.0
+('chili', 'energy drink')    ->       {'brownies'}        confidence :  100.0
+('brownies', 'chili')    ->       {'pancakes'}        confidence :  100.0
+('brownies', 'chili')    ->       {'salt'}        confidence :  100.0
+('brownies', 'chili')    ->       {'shrimp'}        confidence :  100.0
+('brownies', 'mashed potato')    ->       {'chocolate'}        confidence :  100.0
+('brownies', 'chocolate bread')    ->       {'mineral water'}        confidence :  100.0
+('brownies', 'chocolate bread')    ->       {'spaghetti'}        confidence :  100.0
+('brownies', 'chutney')    ->       {'eggs'}        confidence :  100.0
+('brownies', 'chutney')    ->       {'ground beef'}        confidence :  100.0
+('brownies', 'chutney')    ->       {'mineral water'}        confidence :  100.0
+('brownies', 'chutney')    ->       {'pepper'}        confidence :  100.0
+('cottage cheese', 'salad')    ->       {'brownies'}        confidence :  100.0
+('cottage cheese', 'salt')    ->       {'brownies'}        confidence :  100.0
+('brownies', 'gluten free bar')    ->       {'eggs'}        confidence :  100.0
+('energy drink', 'french wine')    ->       {'brownies'}        confidence :  100.0
+('brownies', 'gluten free bar')    ->       {'french fries'}        confidence :  100.0
+('brownies', 'mint green tea')    ->       {'french fries'}        confidence :  75.0
+('brownies', 'gums')    ->       {'green tea'}        confidence :  100.0
+('brownies', 'pickles')    ->       {'green tea'}        confidence :  75.0
+('brownies', 'tomato sauce')    ->       {'ground beef'}        confidence :  71.42857142857143
+('brownies', 'gums')    ->       {'low fat yogurt'}        confidence :  100.0
+('brownies', 'sparkling water')    ->       {'hot dogs'}        confidence :  75.0
+('light cream', 'salad')    ->       {'brownies'}        confidence :  100.0
+('brownies', 'meatballs')    ->       {'mineral water'}        confidence :  71.42857142857143
+('brownies', 'melons')    ->       {'spaghetti'}        confidence :  75.0
+('brownies', 'mint green tea')    ->       {'milk'}        confidence :  75.0
+('brownies', 'tomato sauce')    ->       {'mineral water'}        confidence :  71.42857142857143
+('parmesan cheese', 'salad')    ->       {'brownies'}        confidence :  100.0
+('shallot', 'toothpaste')    ->       {'brownies'}        confidence :  100.0
+('bug spray', 'burger sauce')    ->       {'mineral water'}        confidence :  75.0
+('bug spray', 'chili')    ->       {'burgers'}        confidence :  100.0
+('bug spray', 'champagne')    ->       {'frozen smoothie'}        confidence :  100.0
+('bug spray', 'fresh bread')    ->       {'chicken'}        confidence :  75.0
+('bug spray', 'chili')    ->       {'chocolate'}        confidence :  100.0
+('bug spray', 'chili')    ->       {'spaghetti'}        confidence :  100.0
+('bug spray', 'cookies')    ->       {'eggs'}        confidence :  100.0
+('bug spray', 'eggplant')    ->       {'ground beef'}        confidence :  100.0
+('bug spray', 'eggplant')    ->       {'pepper'}        confidence :  100.0
+('bug spray', 'oil')    ->       {'escalope'}        confidence :  100.0
+('bug spray', 'flax seed')    ->       {'spaghetti'}        confidence :  100.0
+('bug spray', 'fresh bread')    ->       {'spaghetti'}        confidence :  100.0
+('bug spray', 'frozen vegetables')    ->       {'spaghetti'}        confidence :  71.42857142857143
+('bug spray', 'green beans')    ->       {'red wine'}        confidence :  75.0
+('bug spray', 'red wine')    ->       {'green beans'}        confidence :  75.0
+('bug spray', 'muffins')    ->       {'ground beef'}        confidence :  100.0
+('bug spray', 'herb & pepper')    ->       {'milk'}        confidence :  100.0
+('bug spray', 'herb & pepper')    ->       {'spaghetti'}        confidence :  100.0
+('bug spray', 'herb & pepper')    ->       {'whole weat flour'}        confidence :  100.0
+('bug spray', 'strawberries')    ->       {'spaghetti'}        confidence :  100.0
+('bug spray', 'whole weat flour')    ->       {'spaghetti'}        confidence :  100.0
+('bug spray', 'sparkling water')    ->       {'whole wheat rice'}        confidence :  100.0
+('burger sauce', 'chili')    ->       {'chicken'}        confidence :  100.0
+('burger sauce', 'ham')    ->       {'chicken'}        confidence :  100.0
+('burger sauce', 'magazines')    ->       {'chicken'}        confidence :  100.0
+('burger sauce', 'toothpaste')    ->       {'chicken'}        confidence :  100.0
+('burger sauce', 'chili')    ->       {'frozen smoothie'}        confidence :  100.0
+('chili', 'frozen smoothie')    ->       {'burger sauce'}        confidence :  100.0
+('burger sauce', 'yogurt cake')    ->       {'eggs'}        confidence :  100.0
+('burger sauce', 'extra dark chocolate')    ->       {'herb & pepper'}        confidence :  75.0
+('burger sauce', 'extra dark chocolate')    ->       {'mineral water'}        confidence :  75.0
+('burger sauce', 'extra dark chocolate')    ->       {'spaghetti'}        confidence :  75.0
+('burger sauce', 'green grapes')    ->       {'spaghetti'}        confidence :  100.0
+('burger sauce', 'ham')    ->       {'ground beef'}        confidence :  100.0
+('burger sauce', 'gums')    ->       {'spaghetti'}        confidence :  100.0
+('burger sauce', 'honey')    ->       {'milk'}        confidence :  75.0
+('burger sauce', 'honey')    ->       {'spaghetti'}        confidence :  75.0
+('burger sauce', 'hot dogs')    ->       {'spaghetti'}        confidence :  100.0
+('burger sauce', 'light cream')    ->       {'mineral water'}        confidence :  100.0
+('burger sauce', 'magazines')    ->       {'spaghetti'}        confidence :  100.0
+('burger sauce', 'protein bar')    ->       {'mineral water'}        confidence :  100.0
+('burger sauce', 'rice')    ->       {'mineral water'}        confidence :  75.0
+('burger sauce', 'salmon')    ->       {'mineral water'}        confidence :  83.33333333333334
+('burger sauce', 'whole wheat rice')    ->       {'mineral water'}        confidence :  100.0
+('burger sauce', 'mint')    ->       {'spaghetti'}        confidence :  100.0
+('burger sauce', 'olive oil')    ->       {'spaghetti'}        confidence :  83.33333333333334
+('burger sauce', 'pepper')    ->       {'spaghetti'}        confidence :  75.0
+('burger sauce', 'protein bar')    ->       {'rice'}        confidence :  100.0
+('burger sauce', 'rice')    ->       {'protein bar'}        confidence :  75.0
+('burger sauce', 'protein bar')    ->       {'spaghetti'}        confidence :  100.0
+('burger sauce', 'rice')    ->       {'spaghetti'}        confidence :  75.0
+('burger sauce', 'whole wheat rice')    ->       {'salmon'}        confidence :  100.0
+('burger sauce', 'shrimp')    ->       {'spaghetti'}        confidence :  75.0
+('burger sauce', 'soup')    ->       {'spaghetti'}        confidence :  75.0
+('burger sauce', 'tomatoes')    ->       {'spaghetti'}        confidence :  75.0
+('burgers', 'mint green tea')    ->       {'cake'}        confidence :  75.0
+('cauliflower', 'protein bar')    ->       {'burgers'}        confidence :  100.0
+('cereals', 'cider')    ->       {'burgers'}        confidence :  100.0
+('burgers', 'salad')    ->       {'cereals'}        confidence :  100.0
+('burgers', 'chili')    ->       {'chocolate'}        confidence :  75.0
+('burgers', 'chocolate bread')    ->       {'mineral water'}        confidence :  100.0
+('chutney', 'light mayo')    ->       {'burgers'}        confidence :  100.0
+('cider', 'hot dogs')    ->       {'burgers'}        confidence :  75.0
+('burgers', 'clothes accessories')    ->       {'eggs'}        confidence :  100.0
+('cookies', 'corn')    ->       {'burgers'}        confidence :  100.0
+('cookies', 'sparkling water')    ->       {'burgers'}        confidence :  100.0
+('cream', 'milk')    ->       {'burgers'}        confidence :  100.0
+('dessert wine', 'turkey')    ->       {'burgers'}        confidence :  100.0
+('burgers', 'gluten free bar')    ->       {'eggs'}        confidence :  80.0
+('eggs', 'hand protein bar')    ->       {'burgers'}        confidence :  75.0
+('burgers', 'ketchup')    ->       {'french fries'}        confidence :  100.0
+('burgers', 'mint green tea')    ->       {'french fries'}        confidence :  75.0
+('fromage blanc', 'soup')    ->       {'burgers'}        confidence :  83.33333333333334
+('burgers', 'gluten free bar')    ->       {'spaghetti'}        confidence :  80.0
+('grated cheese', 'toothpaste')    ->       {'burgers'}        confidence :  100.0
+('ham', 'shampoo')    ->       {'burgers'}        confidence :  100.0
+('burgers', 'hand protein bar')    ->       {'mineral water'}        confidence :  85.71428571428571
+('burgers', 'ketchup')    ->       {'spaghetti'}        confidence :  100.0
+('burgers', 'mashed potato')    ->       {'spaghetti'}        confidence :  100.0
+('burgers', 'mayonnaise')    ->       {'mineral water'}        confidence :  71.42857142857143
+('burgers', 'soda')    ->       {'milk'}        confidence :  100.0
+('burgers', 'rice')    ->       {'mineral water'}        confidence :  72.72727272727273
+('burgers', 'soda')    ->       {'mineral water'}        confidence :  100.0
+('burgers', 'tea')    ->       {'mineral water'}        confidence :  100.0
+('burgers', 'tea')    ->       {'salmon'}        confidence :  100.0
+('burgers', 'spinach')    ->       {'spaghetti'}        confidence :  75.0
+('sparkling water', 'whole wheat rice')    ->       {'burgers'}        confidence :  75.0
+('toothpaste', 'whole wheat pasta')    ->       {'burgers'}        confidence :  100.0
+('butter', 'chili')    ->       {'chocolate'}        confidence :  100.0
+('butter', 'strawberries')    ->       {'chocolate'}        confidence :  100.0
+('butter', 'tomato sauce')    ->       {'chocolate'}        confidence :  100.0
+('butter', 'yams')    ->       {'chocolate'}        confidence :  75.0
+('butter', 'chocolate bread')    ->       {'green tea'}        confidence :  100.0
+('butter', 'cider')    ->       {'green tea'}        confidence :  75.0
+('butter', 'clothes accessories')    ->       {'spaghetti'}        confidence :  100.0
+('butter', 'extra dark chocolate')    ->       {'mineral water'}        confidence :  75.0
+('butter', 'mushroom cream sauce')    ->       {'french fries'}        confidence :  75.0
+('butter', 'tomato sauce')    ->       {'french fries'}        confidence :  100.0
+('fromage blanc', 'green beans')    ->       {'butter'}        confidence :  100.0
+('butter', 'green beans')    ->       {'spaghetti'}        confidence :  100.0
+('butter', 'gums')    ->       {'green tea'}        confidence :  80.0
+('butter', 'mayonnaise')    ->       {'green tea'}        confidence :  75.0
+('butter', 'strawberries')    ->       {'green tea'}        confidence :  100.0
+('butter', 'herb & pepper')    ->       {'spaghetti'}        confidence :  77.77777777777779
+('butter', 'melons')    ->       {'turkey'}        confidence :  100.0
+('butter', 'tomato sauce')    ->       {'salmon'}        confidence :  100.0
+('cake', 'tomato sauce')    ->       {'chocolate'}        confidence :  75.0
+('cake', 'chutney')    ->       {'eggs'}        confidence :  100.0
+('cake', 'chutney')    ->       {'mineral water'}        confidence :  100.0
+('cake', 'clothes accessories')    ->       {'green tea'}        confidence :  80.0
+('cooking oil', 'sparkling water')    ->       {'cake'}        confidence :  100.0
+('cake', 'tomato sauce')    ->       {'eggs'}        confidence :  75.0
+('energy bar', 'pickles')    ->       {'cake'}        confidence :  100.0
+('cake', 'hand protein bar')    ->       {'french fries'}        confidence :  100.0
+('cake', 'whole weat flour')    ->       {'french fries'}        confidence :  71.42857142857143
+('cake', 'gluten free bar')    ->       {'fresh tuna'}        confidence :  75.0
+('cake', 'mayonnaise')    ->       {'frozen vegetables'}        confidence :  100.0
+('cake', 'shampoo')    ->       {'frozen vegetables'}        confidence :  75.0
+('light cream', 'mashed potato')    ->       {'cake'}        confidence :  100.0
+('mashed potato', 'pepper')    ->       {'cake'}        confidence :  100.0
+('mashed potato', 'turkey')    ->       {'cake'}        confidence :  100.0
+('cake', 'mayonnaise')    ->       {'milk'}        confidence :  100.0
+('cake', 'zucchini')    ->       {'milk'}        confidence :  71.42857142857143
+('cake', 'tomato sauce')    ->       {'mineral water'}        confidence :  100.0
+('cake', 'whole weat flour')    ->       {'mineral water'}        confidence :  85.71428571428571
+('mint', 'toothpaste')    ->       {'cake'}        confidence :  100.0
+('mushroom cream sauce', 'whole weat flour')    ->       {'cake'}        confidence :  100.0
+('cake', 'white wine')    ->       {'spaghetti'}        confidence :  72.72727272727273
+('candy bars', 'cottage cheese')    ->       {'eggs'}        confidence :  100.0
+('candy bars', 'frozen vegetables')    ->       {'eggs'}        confidence :  100.0
+('candy bars', 'strawberries')    ->       {'french fries'}        confidence :  75.0
+('candy bars', 'herb & pepper')    ->       {'salmon'}        confidence :  75.0
+('candy bars', 'honey')    ->       {'mineral water'}        confidence :  80.0
+('candy bars', 'meatballs')    ->       {'milk'}        confidence :  100.0
+('candy bars', 'meatballs')    ->       {'rice'}        confidence :  100.0
+('candy bars', 'rice')    ->       {'meatballs'}        confidence :  100.0
+('meatballs', 'rice')    ->       {'candy bars'}        confidence :  100.0
+('candy bars', 'meatballs')    ->       {'spaghetti'}        confidence :  100.0
+('candy bars', 'milk')    ->       {'mineral water'}        confidence :  83.33333333333334
+('candy bars', 'rice')    ->       {'milk'}        confidence :  100.0
+('candy bars', 'olive oil')    ->       {'mineral water'}        confidence :  100.0
+('candy bars', 'salt')    ->       {'mineral water'}        confidence :  100.0
+('candy bars', 'shampoo')    ->       {'mineral water'}        confidence :  100.0
+('candy bars', 'vegetables mix')    ->       {'mineral water'}        confidence :  100.0
+('candy bars', 'rice')    ->       {'spaghetti'}        confidence :  100.0
+('carrots', 'chicken')    ->       {'mineral water'}        confidence :  70.0
+('carrots', 'chili')    ->       {'ham'}        confidence :  100.0
+('carrots', 'chili')    ->       {'herb & pepper'}        confidence :  100.0
+('carrots', 'cider')    ->       {'mineral water'}        confidence :  100.0
+('carrots', 'clothes accessories')    ->       {'green tea'}        confidence :  100.0
+('carrots', 'cottage cheese')    ->       {'mineral water'}        confidence :  71.42857142857143
+('carrots', 'toothpaste')    ->       {'eggplant'}        confidence :  100.0
+('carrots', 'flax seed')    ->       {'green tea'}        confidence :  100.0
+('carrots', 'ketchup')    ->       {'french fries'}        confidence :  100.0
+('carrots', 'whole wheat pasta')    ->       {'french fries'}        confidence :  75.0
+('carrots', 'parmesan cheese')    ->       {'frozen vegetables'}        confidence :  75.0
+('carrots', 'ketchup')    ->       {'grated cheese'}        confidence :  100.0
+('carrots', 'gums')    ->       {'low fat yogurt'}        confidence :  100.0
+('carrots', 'gums')    ->       {'milk'}        confidence :  100.0
+('carrots', 'gums')    ->       {'mineral water'}        confidence :  100.0
+('ham', 'oatmeal')    ->       {'carrots'}        confidence :  100.0
+('ham', 'pasta')    ->       {'carrots'}        confidence :  100.0
+('carrots', 'tomato sauce')    ->       {'herb & pepper'}        confidence :  100.0
+('carrots', 'honey')    ->       {'spaghetti'}        confidence :  85.71428571428571
+('carrots', 'ketchup')    ->       {'spaghetti'}        confidence :  100.0
+('carrots', 'light cream')    ->       {'mineral water'}        confidence :  80.0
+('carrots', 'muffins')    ->       {'low fat yogurt'}        confidence :  75.0
+('carrots', 'mashed potato')    ->       {'spaghetti'}        confidence :  100.0
+('muffins', 'oatmeal')    ->       {'carrots'}        confidence :  100.0
+('carrots', 'muffins')    ->       {'whole wheat rice'}        confidence :  75.0
+('oatmeal', 'pasta')    ->       {'carrots'}        confidence :  100.0
+('carrots', 'salad')    ->       {'salmon'}        confidence :  100.0
+('salad', 'salmon')    ->       {'carrots'}        confidence :  100.0
+('cauliflower', 'cereals')    ->       {'fresh bread'}        confidence :  100.0
+('cauliflower', 'fresh bread')    ->       {'cereals'}        confidence :  75.0
+('cauliflower', 'white wine')    ->       {'cereals'}        confidence :  100.0
+('cauliflower', 'champagne')    ->       {'french fries'}        confidence :  75.0
+('cauliflower', 'salmon')    ->       {'eggs'}        confidence :  75.0
+('cauliflower', 'turkey')    ->       {'eggs'}        confidence :  100.0
+('cauliflower', 'energy bar')    ->       {'escalope'}        confidence :  100.0
+('cauliflower', 'energy bar')    ->       {'grated cheese'}        confidence :  100.0
+('cauliflower', 'vegetables mix')    ->       {'french fries'}        confidence :  75.0
+('cauliflower', 'white wine')    ->       {'fresh bread'}        confidence :  100.0
+('cauliflower', 'parmesan cheese')    ->       {'ground beef'}        confidence :  100.0
+('cauliflower', 'ham')    ->       {'whole wheat rice'}        confidence :  100.0
+('cauliflower', 'hot dogs')    ->       {'mineral water'}        confidence :  71.42857142857143
+('cauliflower', 'rice')    ->       {'mineral water'}        confidence :  100.0
+('cauliflower', 'tomato juice')    ->       {'mineral water'}        confidence :  100.0
+('cauliflower', 'tomatoes')    ->       {'mineral water'}        confidence :  80.0
+('cauliflower', 'olive oil')    ->       {'spaghetti'}        confidence :  71.42857142857143
+('cauliflower', 'white wine')    ->       {'olive oil'}        confidence :  100.0
+('cauliflower', 'parmesan cheese')    ->       {'spaghetti'}        confidence :  100.0
+('cauliflower', 'rice')    ->       {'tomato juice'}        confidence :  100.0
+('cauliflower', 'tomato juice')    ->       {'rice'}        confidence :  100.0
+('cauliflower', 'tomatoes')    ->       {'spaghetti'}        confidence :  80.0
+('cauliflower', 'white wine')    ->       {'spaghetti'}        confidence :  100.0
+('cereals', 'chili')    ->       {'salmon'}        confidence :  100.0
+('cereals', 'chili')    ->       {'spaghetti'}        confidence :  100.0
+('cereals', 'cider')    ->       {'milk'}        confidence :  100.0
+('cereals', 'cottage cheese')    ->       {'mineral water'}        confidence :  77.77777777777779
+('cereals', 'energy bar')    ->       {'milk'}        confidence :  80.0
+('cereals', 'french wine')    ->       {'mineral water'}        confidence :  77.77777777777779
+('cereals', 'mayonnaise')    ->       {'frozen vegetables'}        confidence :  100.0
+('cereals', 'green beans')    ->       {'green tea'}        confidence :  100.0
+('cereals', 'green grapes')    ->       {'green tea'}        confidence :  100.0
+('cereals', 'toothpaste')    ->       {'ground beef'}        confidence :  100.0
+('cereals', 'yams')    ->       {'ground beef'}        confidence :  100.0
+('cereals', 'mayonnaise')    ->       {'spaghetti'}        confidence :  100.0
+('cereals', 'meatballs')    ->       {'mineral water'}        confidence :  75.0
+('cereals', 'melons')    ->       {'milk'}        confidence :  100.0
+('cereals', 'strong cheese')    ->       {'mineral water'}        confidence :  100.0
+('cereals', 'tomato sauce')    ->       {'mineral water'}        confidence :  71.42857142857143
+('cereals', 'yams')    ->       {'mineral water'}        confidence :  100.0
+('cereals', 'parmesan cheese')    ->       {'spaghetti'}        confidence :  80.0
+('cereals', 'strawberries')    ->       {'spaghetti'}        confidence :  80.0
+('cereals', 'strong cheese')    ->       {'spaghetti'}        confidence :  100.0
+('cereals', 'tomato sauce')    ->       {'spaghetti'}        confidence :  71.42857142857143
+('champagne', 'gums')    ->       {'chocolate'}        confidence :  80.0
+('champagne', 'zucchini')    ->       {'chocolate'}        confidence :  100.0
+('champagne', 'clothes accessories')    ->       {'mineral water'}        confidence :  100.0
+('champagne', 'fromage blanc')    ->       {'eggs'}        confidence :  75.0
+('champagne', 'fromage blanc')    ->       {'french fries'}        confidence :  75.0
+('champagne', 'shallot')    ->       {'french fries'}        confidence :  100.0
+('champagne', 'fromage blanc')    ->       {'frozen vegetables'}        confidence :  100.0
+('champagne', 'mint')    ->       {'frozen smoothie'}        confidence :  75.0
+('champagne', 'meatballs')    ->       {'ground beef'}        confidence :  100.0
+('champagne', 'hand protein bar')    ->       {'protein bar'}        confidence :  100.0
+('champagne', 'hand protein bar')    ->       {'spaghetti'}        confidence :  100.0
+('champagne', 'ketchup')    ->       {'mineral water'}        confidence :  100.0
+('champagne', 'ketchup')    ->       {'pancakes'}        confidence :  100.0
+('champagne', 'mayonnaise')    ->       {'magazines'}        confidence :  100.0
+('champagne', 'mayonnaise')    ->       {'mineral water'}        confidence :  100.0
+('champagne', 'mayonnaise')    ->       {'soup'}        confidence :  100.0
+('champagne', 'yams')    ->       {'milk'}        confidence :  75.0
+('champagne', 'nonfat milk')    ->       {'mineral water'}        confidence :  100.0
+('champagne', 'soup')    ->       {'mineral water'}        confidence :  71.42857142857143
+('parmesan cheese', 'tomato juice')    ->       {'champagne'}        confidence :  100.0
+('champagne', 'whole weat flour')    ->       {'tomato juice'}        confidence :  100.0
+('chili', 'cooking oil')    ->       {'chicken'}        confidence :  71.42857142857143
+('chili', 'cottage cheese')    ->       {'chicken'}        confidence :  100.0
+('chili', 'frozen smoothie')    ->       {'chicken'}        confidence :  100.0
+('chicken', 'hand protein bar')    ->       {'chocolate'}        confidence :  100.0
+('chicken', 'mushroom cream sauce')    ->       {'chocolate'}        confidence :  83.33333333333334
+('chocolate bread', 'light cream')    ->       {'chicken'}        confidence :  100.0
+('chocolate bread', 'tomatoes')    ->       {'chicken'}        confidence :  100.0
+('chicken', 'clothes accessories')    ->       {'mineral water'}        confidence :  75.0
+('chicken', 'cream')    ->       {'cookies'}        confidence :  100.0
+('cookies', 'cream')    ->       {'chicken'}        confidence :  100.0
+('cottage cheese', 'extra dark chocolate')    ->       {'chicken'}        confidence :  80.0
+('eggplant', 'extra dark chocolate')    ->       {'chicken'}        confidence :  100.0
+('eggplant', 'pepper')    ->       {'chicken'}        confidence :  80.0
+('extra dark chocolate', 'hot dogs')    ->       {'chicken'}        confidence :  100.0
+('extra dark chocolate', 'yams')    ->       {'chicken'}        confidence :  100.0
+('green grapes', 'magazines')    ->       {'chicken'}        confidence :  100.0
+('chicken', 'shallot')    ->       {'green tea'}        confidence :  100.0
+('chicken', 'hand protein bar')    ->       {'shrimp'}        confidence :  100.0
+('chicken', 'hand protein bar')    ->       {'spaghetti'}        confidence :  100.0
+('chicken', 'hand protein bar')    ->       {'tomatoes'}        confidence :  100.0
+('chicken', 'ketchup')    ->       {'milk'}        confidence :  75.0
+('chicken', 'ketchup')    ->       {'whole wheat rice'}        confidence :  75.0
+('light cream', 'nonfat milk')    ->       {'chicken'}        confidence :  100.0
+('light cream', 'salt')    ->       {'chicken'}        confidence :  100.0
+('light cream', 'strawberries')    ->       {'chicken'}        confidence :  100.0
+('light cream', 'yams')    ->       {'chicken'}        confidence :  100.0
+('chicken', 'nonfat milk')    ->       {'mineral water'}        confidence :  70.0
+('mint', 'toothpaste')    ->       {'chicken'}        confidence :  100.0
+('chicken', 'tea')    ->       {'pancakes'}        confidence :  75.0
+('parmesan cheese', 'salt')    ->       {'chicken'}        confidence :  100.0
+('chicken', 'protein bar')    ->       {'spaghetti'}        confidence :  81.81818181818183
+('chicken', 'salad')    ->       {'shrimp'}        confidence :  100.0
+('chicken', 'tea')    ->       {'spaghetti'}        confidence :  75.0
+('chili', 'chocolate bread')    ->       {'red wine'}        confidence :  100.0
+('chili', 'cookies')    ->       {'french fries'}        confidence :  100.0
+('chili', 'cookies')    ->       {'salt'}        confidence :  100.0
+('chili', 'cottage cheese')    ->       {'cooking oil'}        confidence :  100.0
+('chili', 'cottage cheese')    ->       {'shrimp'}        confidence :  100.0
+('chili', 'energy drink')    ->       {'pancakes'}        confidence :  100.0
+('chili', 'energy drink')    ->       {'salt'}        confidence :  100.0
+('chili', 'energy drink')    ->       {'shrimp'}        confidence :  100.0
+('chili', 'escalope')    ->       {'mineral water'}        confidence :  85.71428571428571
+('chili', 'salad')    ->       {'extra dark chocolate'}        confidence :  100.0
+('extra dark chocolate', 'salad')    ->       {'chili'}        confidence :  100.0
+('chili', 'frozen vegetables')    ->       {'spaghetti'}        confidence :  75.0
+('chili', 'olive oil')    ->       {'ground beef'}        confidence :  71.42857142857143
+('chili', 'ground beef')    ->       {'spaghetti'}        confidence :  70.0
+('chili', 'light cream')    ->       {'pancakes'}        confidence :  75.0
+('chili', 'magazines')    ->       {'olive oil'}        confidence :  100.0
+('chili', 'magazines')    ->       {'salt'}        confidence :  100.0
+('chili', 'rice')    ->       {'mineral water'}        confidence :  75.0
+('chili', 'tomato sauce')    ->       {'olive oil'}        confidence :  100.0
+('chili', 'salt')    ->       {'pancakes'}        confidence :  75.0
+('chili', 'salmon')    ->       {'spaghetti'}        confidence :  80.0
+('chili', 'strawberries')    ->       {'spaghetti'}        confidence :  100.0
+('chili', 'tomatoes')    ->       {'spaghetti'}        confidence :  75.0
+('chili', 'turkey')    ->       {'spaghetti'}        confidence :  80.0
+('cider', 'olive oil')    ->       {'chocolate'}        confidence :  100.0
+('clothes accessories', 'salt')    ->       {'chocolate'}        confidence :  100.0
+('cookies', 'sandwich')    ->       {'chocolate'}        confidence :  100.0
+('corn', 'cottage cheese')    ->       {'chocolate'}        confidence :  100.0
+('corn', 'energy drink')    ->       {'chocolate'}        confidence :  100.0
+('energy bar', 'tomato sauce')    ->       {'chocolate'}        confidence :  100.0
+('energy drink', 'shampoo')    ->       {'chocolate'}        confidence :  100.0
+('chocolate', 'extra dark chocolate')    ->       {'mineral water'}        confidence :  75.0
+('flax seed', 'french wine')    ->       {'chocolate'}        confidence :  100.0
+('flax seed', 'fromage blanc')    ->       {'chocolate'}        confidence :  100.0
+('flax seed', 'low fat yogurt')    ->       {'chocolate'}        confidence :  100.0
+('chocolate', 'salad')    ->       {'french fries'}        confidence :  75.0
+('fresh tuna', 'protein bar')    ->       {'chocolate'}        confidence :  75.0
+('gluten free bar', 'whole wheat rice')    ->       {'chocolate'}        confidence :  100.0
+('grated cheese', 'oatmeal')    ->       {'chocolate'}        confidence :  100.0
+('gums', 'sparkling water')    ->       {'chocolate'}        confidence :  100.0
+('hand protein bar', 'pancakes')    ->       {'chocolate'}        confidence :  80.0
+('hand protein bar', 'shrimp')    ->       {'chocolate'}        confidence :  83.33333333333334
+('hand protein bar', 'zucchini')    ->       {'chocolate'}        confidence :  100.0
+('herb & pepper', 'oatmeal')    ->       {'chocolate'}        confidence :  75.0
+('honey', 'tomato sauce')    ->       {'chocolate'}        confidence :  100.0
+('hot dogs', 'tea')    ->       {'chocolate'}        confidence :  100.0
+('chocolate', 'ketchup')    ->       {'spaghetti'}        confidence :  75.0
+('ketchup', 'vegetables mix')    ->       {'chocolate'}        confidence :  100.0
+('light cream', 'yogurt cake')    ->       {'chocolate'}        confidence :  100.0
+('chocolate', 'mayonnaise')    ->       {'spaghetti'}        confidence :  71.42857142857143
+('chocolate', 'oatmeal')    ->       {'mineral water'}        confidence :  70.0
+('mint', 'strawberries')    ->       {'chocolate'}        confidence :  100.0
+('mint green tea', 'mushroom cream sauce')    ->       {'chocolate'}        confidence :  100.0
+('oatmeal', 'tomato juice')    ->       {'chocolate'}        confidence :  100.0
+('oatmeal', 'whole wheat pasta')    ->       {'chocolate'}        confidence :  100.0
+('olive oil', 'sandwich')    ->       {'chocolate'}        confidence :  100.0
+('pepper', 'salt')    ->       {'chocolate'}        confidence :  100.0
+('red wine', 'tomato sauce')    ->       {'chocolate'}        confidence :  80.0
+('rice', 'toothpaste')    ->       {'chocolate'}        confidence :  75.0
+('salt', 'tomato sauce')    ->       {'chocolate'}        confidence :  100.0
+('sandwich', 'shrimp')    ->       {'chocolate'}        confidence :  75.0
+('shampoo', 'shrimp')    ->       {'chocolate'}        confidence :  100.0
+('shrimp', 'zucchini')    ->       {'chocolate'}        confidence :  100.0
+('sparkling water', 'vegetables mix')    ->       {'chocolate'}        confidence :  100.0
+('strawberries', 'yams')    ->       {'chocolate'}        confidence :  100.0
+('chocolate bread', 'oil')    ->       {'french fries'}        confidence :  100.0
+('chocolate bread', 'soup')    ->       {'french fries'}        confidence :  100.0
+('chocolate bread', 'french wine')    ->       {'mineral water'}        confidence :  100.0
+('chocolate bread', 'light cream')    ->       {'frozen vegetables'}        confidence :  100.0
+('chocolate bread', 'oil')    ->       {'green tea'}        confidence :  100.0
+('chocolate bread', 'soup')    ->       {'green tea'}        confidence :  100.0
+('chocolate bread', 'hot dogs')    ->       {'red wine'}        confidence :  100.0
+('chocolate bread', 'nonfat milk')    ->       {'mineral water'}        confidence :  100.0
+('chocolate bread', 'pancakes')    ->       {'mineral water'}        confidence :  100.0
+('chutney', 'cider')    ->       {'mineral water'}        confidence :  100.0
+('chutney', 'cider')    ->       {'spaghetti'}        confidence :  100.0
+('chutney', 'cooking oil')    ->       {'fresh tuna'}        confidence :  75.0
+('chutney', 'fresh tuna')    ->       {'cooking oil'}        confidence :  100.0
+('chutney', 'cooking oil')    ->       {'milk'}        confidence :  75.0
+('chutney', 'cooking oil')    ->       {'spaghetti'}        confidence :  75.0
+('chutney', 'tomato juice')    ->       {'cooking oil'}        confidence :  100.0
+('chutney', 'french fries')    ->       {'eggs'}        confidence :  100.0
+('chutney', 'herb & pepper')    ->       {'eggs'}        confidence :  100.0
+('chutney', 'light mayo')    ->       {'eggs'}        confidence :  100.0
+('chutney', 'pepper')    ->       {'eggs'}        confidence :  100.0
+('chutney', 'tomato sauce')    ->       {'eggs'}        confidence :  100.0
+('chutney', 'whole wheat rice')    ->       {'eggs'}        confidence :  100.0
+('chutney', 'french fries')    ->       {'spaghetti'}        confidence :  100.0
+('chutney', 'french wine')    ->       {'spaghetti'}        confidence :  75.0
+('chutney', 'frozen smoothie')    ->       {'frozen vegetables'}        confidence :  100.0
+('chutney', 'ground beef')    ->       {'mineral water'}        confidence :  100.0
+('chutney', 'herb & pepper')    ->       {'mineral water'}        confidence :  100.0
+('chutney', 'light mayo')    ->       {'pancakes'}        confidence :  100.0
+('chutney', 'nonfat milk')    ->       {'milk'}        confidence :  100.0
+('chutney', 'tomato juice')    ->       {'milk'}        confidence :  100.0
+('chutney', 'pepper')    ->       {'mineral water'}        confidence :  100.0
+('chutney', 'salmon')    ->       {'mineral water'}        confidence :  100.0
+('chutney', 'soup')    ->       {'mineral water'}        confidence :  75.0
+('chutney', 'tomato sauce')    ->       {'mineral water'}        confidence :  100.0
+('chutney', 'tomato sauce')    ->       {'pepper'}        confidence :  100.0
+('chutney', 'shrimp')    ->       {'spaghetti'}        confidence :  100.0
+('chutney', 'soup')    ->       {'spaghetti'}        confidence :  75.0
+('chutney', 'tomato juice')    ->       {'spaghetti'}        confidence :  100.0
+('cider', 'cottage cheese')    ->       {'eggs'}        confidence :  100.0
+('cider', 'eggplant')    ->       {'eggs'}        confidence :  100.0
+('cider', 'energy drink')    ->       {'french fries'}        confidence :  75.0
+('cider', 'energy drink')    ->       {'milk'}        confidence :  75.0
+('cider', 'energy drink')    ->       {'pancakes'}        confidence :  75.0
+('cider', 'melons')    ->       {'french fries'}        confidence :  100.0
+('cider', 'french wine')    ->       {'milk'}        confidence :  75.0
+('cider', 'fresh tuna')    ->       {'mineral water'}        confidence :  71.42857142857143
+('cider', 'green beans')    ->       {'milk'}        confidence :  100.0
+('cider', 'pet food')    ->       {'green tea'}        confidence :  100.0
+('cider', 'gums')    ->       {'milk'}        confidence :  100.0
+('cider', 'gums')    ->       {'mineral water'}        confidence :  100.0
+('cider', 'hot dogs')    ->       {'milk'}        confidence :  75.0
+('cider', 'soda')    ->       {'low fat yogurt'}        confidence :  100.0
+('cider', 'mayonnaise')    ->       {'spaghetti'}        confidence :  100.0
+('cider', 'mayonnaise')    ->       {'turkey'}        confidence :  100.0
+('cider', 'pet food')    ->       {'soup'}        confidence :  100.0
+('clothes accessories', 'grated cheese')    ->       {'ground beef'}        confidence :  100.0
+('clothes accessories', 'grated cheese')    ->       {'mineral water'}        confidence :  75.0
+('clothes accessories', 'grated cheese')    ->       {'spaghetti'}        confidence :  75.0
+('clothes accessories', 'olive oil')    ->       {'green tea'}        confidence :  80.0
+('clothes accessories', 'white wine')    ->       {'green tea'}        confidence :  100.0
+('clothes accessories', 'ground beef')    ->       {'mineral water'}        confidence :  70.0
+('clothes accessories', 'parmesan cheese')    ->       {'ground beef'}        confidence :  75.0
+('clothes accessories', 'ketchup')    ->       {'mineral water'}        confidence :  100.0
+('clothes accessories', 'light cream')    ->       {'mineral water'}        confidence :  100.0
+('clothes accessories', 'salmon')    ->       {'mineral water'}        confidence :  100.0
+('clothes accessories', 'whole wheat rice')    ->       {'mineral water'}        confidence :  75.0
+('clothes accessories', 'salmon')    ->       {'spaghetti'}        confidence :  80.0
+('cookies', 'corn')    ->       {'tomatoes'}        confidence :  100.0
+('cookies', 'energy bar')    ->       {'milk'}        confidence :  100.0
+('cookies', 'tea')    ->       {'escalope'}        confidence :  100.0
+('cookies', 'french wine')    ->       {'milk'}        confidence :  100.0
+('grated cheese', 'shallot')    ->       {'cookies'}        confidence :  75.0
+('cookies', 'green beans')    ->       {'spaghetti'}        confidence :  100.0
+('cookies', 'gums')    ->       {'mineral water'}        confidence :  80.0
+('cookies', 'ketchup')    ->       {'spaghetti'}        confidence :  100.0
+('cookies', 'ketchup')    ->       {'whole wheat pasta'}        confidence :  100.0
+('ketchup', 'whole wheat pasta')    ->       {'cookies'}        confidence :  100.0
+('low fat yogurt', 'shallot')    ->       {'cookies'}        confidence :  69.23076923076923
+('cookies', 'white wine')    ->       {'milk'}        confidence :  100.0
+('cookies', 'tea')    ->       {'mineral water'}        confidence :  100.0
+('cookies', 'sandwich')    ->       {'spaghetti'}        confidence :  100.0
+('shallot', 'whole wheat rice')    ->       {'cookies'}        confidence :  100.0
+('cookies', 'tea')    ->       {'soup'}        confidence :  100.0
+('cottage cheese', 'salt')    ->       {'cooking oil'}        confidence :  100.0
+('extra dark chocolate', 'tomato juice')    ->       {'cooking oil'}        confidence :  100.0
+('cooking oil', 'french wine')    ->       {'mineral water'}        confidence :  70.0
+('cooking oil', 'fromage blanc')    ->       {'mineral water'}        confidence :  81.81818181818183
+('cooking oil', 'sparkling water')    ->       {'green tea'}        confidence :  100.0
+('ham', 'ketchup')    ->       {'cooking oil'}        confidence :  100.0
+('hand protein bar', 'salmon')    ->       {'cooking oil'}        confidence :  100.0
+('ketchup', 'magazines')    ->       {'cooking oil'}        confidence :  100.0
+('ketchup', 'soup')    ->       {'cooking oil'}        confidence :  75.0
+('light cream', 'pet food')    ->       {'cooking oil'}        confidence :  100.0
+('low fat yogurt', 'toothpaste')    ->       {'cooking oil'}        confidence :  75.0
+('magazines', 'protein bar')    ->       {'cooking oil'}        confidence :  100.0
+('cooking oil', 'meatballs')    ->       {'spaghetti'}        confidence :  71.42857142857143
+('cooking oil', 'strong cheese')    ->       {'milk'}        confidence :  75.0
+('cooking oil', 'oatmeal')    ->       {'mineral water'}        confidence :  75.0
+('cooking oil', 'sparkling water')    ->       {'mineral water'}        confidence :  100.0
+('cooking oil', 'spinach')    ->       {'mineral water'}        confidence :  80.0
+('cooking oil', 'whole weat flour')    ->       {'mineral water'}        confidence :  80.0
+('cooking oil', 'whole wheat pasta')    ->       {'mineral water'}        confidence :  70.58823529411765
+('mint', 'turkey')    ->       {'cooking oil'}        confidence :  75.0
+('cooking oil', 'pasta')    ->       {'shrimp'}        confidence :  75.0
+('cooking oil', 'pickles')    ->       {'spaghetti'}        confidence :  100.0
+('protein bar', 'yogurt cake')    ->       {'cooking oil'}        confidence :  75.0
+('cooking oil', 'red wine')    ->       {'spaghetti'}        confidence :  70.58823529411765
+('cooking oil', 'strong cheese')    ->       {'spaghetti'}        confidence :  75.0
+('tomatoes', 'yams')    ->       {'cooking oil'}        confidence :  100.0
+('corn', 'escalope')    ->       {'tomatoes'}        confidence :  75.0
+('corn', 'red wine')    ->       {'green tea'}        confidence :  75.0
+('corn', 'ground beef')    ->       {'spaghetti'}        confidence :  75.0
+('corn', 'gums')    ->       {'spaghetti'}        confidence :  100.0
+('corn', 'gums')    ->       {'tomatoes'}        confidence :  100.0
+('corn', 'gums')    ->       {'vegetables mix'}        confidence :  100.0
+('corn', 'vegetables mix')    ->       {'gums'}        confidence :  100.0
+('corn', 'gums')    ->       {'whole wheat rice'}        confidence :  100.0
+('corn', 'ketchup')    ->       {'tomatoes'}        confidence :  100.0
+('corn', 'salmon')    ->       {'milk'}        confidence :  100.0
+('corn', 'oil')    ->       {'mineral water'}        confidence :  75.0
+('corn', 'pancakes')    ->       {'mineral water'}        confidence :  75.0
+('corn', 'red wine')    ->       {'mineral water'}        confidence :  75.0
+('corn', 'red wine')    ->       {'soup'}        confidence :  75.0
+('corn', 'tomato juice')    ->       {'spaghetti'}        confidence :  100.0
+('corn', 'vegetables mix')    ->       {'spaghetti'}        confidence :  100.0
+('corn', 'whole wheat rice')    ->       {'spaghetti'}        confidence :  100.0
+('corn', 'vegetables mix')    ->       {'tomatoes'}        confidence :  100.0
+('corn', 'vegetables mix')    ->       {'whole wheat rice'}        confidence :  100.0
+('cottage cheese', 'eggplant')    ->       {'spaghetti'}        confidence :  75.0
+('cottage cheese', 'spinach')    ->       {'french fries'}        confidence :  100.0
+('cottage cheese', 'french wine')    ->       {'spaghetti'}        confidence :  72.72727272727273
+('frozen vegetables', 'spinach')    ->       {'cottage cheese'}        confidence :  100.0
+('cottage cheese', 'gums')    ->       {'mineral water'}        confidence :  75.0
+('cottage cheese', 'red wine')    ->       {'mineral water'}        confidence :  85.71428571428571
+('cottage cheese', 'salad')    ->       {'parmesan cheese'}        confidence :  100.0
+('parmesan cheese', 'salad')    ->       {'cottage cheese'}        confidence :  100.0
+('vegetables mix', 'yogurt cake')    ->       {'cottage cheese'}        confidence :  75.0
+('cream', 'frozen smoothie')    ->       {'mineral water'}        confidence :  100.0
+('cream', 'frozen smoothie')    ->       {'spaghetti'}        confidence :  100.0
+('cream', 'ground beef')    ->       {'herb & pepper'}        confidence :  100.0
+('cream', 'herb & pepper')    ->       {'ground beef'}        confidence :  100.0
+('cream', 'ground beef')    ->       {'pancakes'}        confidence :  100.0
+('cream', 'pancakes')    ->       {'ground beef'}        confidence :  100.0
+('cream', 'ground beef')    ->       {'spaghetti'}        confidence :  100.0
+('cream', 'herb & pepper')    ->       {'pancakes'}        confidence :  100.0
+('cream', 'pancakes')    ->       {'herb & pepper'}        confidence :  100.0
+('cream', 'herb & pepper')    ->       {'spaghetti'}        confidence :  100.0
+('cream', 'mineral water')    ->       {'spaghetti'}        confidence :  100.0
+('cream', 'spaghetti')    ->       {'mineral water'}        confidence :  75.0
+('cream', 'pancakes')    ->       {'spaghetti'}        confidence :  100.0
+('dessert wine', 'extra dark chocolate')    ->       {'mineral water'}        confidence :  100.0
+('dessert wine', 'extra dark chocolate')    ->       {'salmon'}        confidence :  100.0
+('dessert wine', 'oil')    ->       {'frozen smoothie'}        confidence :  100.0
+('dessert wine', 'grated cheese')    ->       {'milk'}        confidence :  100.0
+('dessert wine', 'grated cheese')    ->       {'shrimp'}        confidence :  100.0
+('dessert wine', 'grated cheese')    ->       {'spaghetti'}        confidence :  100.0
+('dessert wine', 'ground beef')    ->       {'salmon'}        confidence :  71.42857142857143
+('dessert wine', 'gums')    ->       {'soup'}        confidence :  100.0
+('dessert wine', 'honey')    ->       {'milk'}        confidence :  100.0
+('dessert wine', 'honey')    ->       {'mineral water'}        confidence :  100.0
+('dessert wine', 'oil')    ->       {'milk'}        confidence :  100.0
+('dessert wine', 'shrimp')    ->       {'milk'}        confidence :  75.0
+('dessert wine', 'oil')    ->       {'shrimp'}        confidence :  100.0
+('dessert wine', 'oil')    ->       {'whole wheat rice'}        confidence :  100.0
+('dessert wine', 'parmesan cheese')    ->       {'tomatoes'}        confidence :  100.0
+('dessert wine', 'protein bar')    ->       {'spaghetti'}        confidence :  100.0
+('dessert wine', 'shrimp')    ->       {'spaghetti'}        confidence :  75.0
+('escalope', 'pet food')    ->       {'eggplant'}        confidence :  100.0
+('eggplant', 'fresh tuna')    ->       {'spaghetti'}        confidence :  75.0
+('eggplant', 'gums')    ->       {'frozen vegetables'}        confidence :  100.0
+('eggplant', 'melons')    ->       {'frozen vegetables'}        confidence :  100.0
+('eggplant', 'shampoo')    ->       {'frozen vegetables'}        confidence :  100.0
+('eggplant', 'gums')    ->       {'green tea'}        confidence :  100.0
+('eggplant', 'light cream')    ->       {'mineral water'}        confidence :  100.0
+('eggplant', 'mint')    ->       {'mineral water'}        confidence :  100.0
+('eggplant', 'pet food')    ->       {'mineral water'}        confidence :  100.0
+('eggplant', 'shampoo')    ->       {'mineral water'}        confidence :  100.0
+('eggplant', 'soup')    ->       {'mineral water'}        confidence :  80.0
+('eggplant', 'tomato juice')    ->       {'mineral water'}        confidence :  100.0
+('eggplant', 'mint')    ->       {'tomatoes'}        confidence :  100.0
+('eggplant', 'shampoo')    ->       {'spaghetti'}        confidence :  100.0
+('eggplant', 'tea')    ->       {'spaghetti'}        confidence :  100.0
+('energy bar', 'strawberries')    ->       {'eggs'}        confidence :  100.0
+('energy drink', 'herb & pepper')    ->       {'eggs'}        confidence :  100.0
+('escalope', 'extra dark chocolate')    ->       {'eggs'}        confidence :  75.0
+('eggs', 'mint green tea')    ->       {'french fries'}        confidence :  71.42857142857143
+('french wine', 'herb & pepper')    ->       {'eggs'}        confidence :  71.42857142857143
+('french wine', 'hot dogs')    ->       {'eggs'}        confidence :  80.0
+('french wine', 'salt')    ->       {'eggs'}        confidence :  80.0
+('fresh tuna', 'red wine')    ->       {'eggs'}        confidence :  75.0
+('fromage blanc', 'gluten free bar')    ->       {'eggs'}        confidence :  100.0
+('fromage blanc', 'red wine')    ->       {'eggs'}        confidence :  80.0
+('fromage blanc', 'rice')    ->       {'eggs'}        confidence :  100.0
+('fromage blanc', 'salmon')    ->       {'eggs'}        confidence :  75.0
+('frozen vegetables', 'spinach')    ->       {'eggs'}        confidence :  100.0
+('gluten free bar', 'hot dogs')    ->       {'eggs'}        confidence :  100.0
+('gluten free bar', 'vegetables mix')    ->       {'eggs'}        confidence :  100.0
+('gums', 'ham')    ->       {'eggs'}        confidence :  100.0
+('gums', 'nonfat milk')    ->       {'eggs'}        confidence :  100.0
+('ham', 'light mayo')    ->       {'eggs'}        confidence :  75.0
+('eggs', 'hand protein bar')    ->       {'mineral water'}        confidence :  100.0
+('herb & pepper', 'nonfat milk')    ->       {'eggs'}        confidence :  80.0
+('herb & pepper', 'tea')    ->       {'eggs'}        confidence :  100.0
+('hot dogs', 'pasta')    ->       {'eggs'}        confidence :  100.0
+('low fat yogurt', 'toothpaste')    ->       {'eggs'}        confidence :  75.0
+('mashed potato', 'pepper')    ->       {'eggs'}        confidence :  100.0
+('eggs', 'mayonnaise')    ->       {'mineral water'}        confidence :  77.77777777777779
+('meatballs', 'salad')    ->       {'eggs'}        confidence :  100.0
+('melons', 'white wine')    ->       {'eggs'}        confidence :  100.0
+('eggs', 'tomato sauce')    ->       {'mineral water'}        confidence :  70.0
+('pancakes', 'spinach')    ->       {'eggs'}        confidence :  75.0
+('pasta', 'sparkling water')    ->       {'eggs'}        confidence :  100.0
+('rice', 'salad')    ->       {'eggs'}        confidence :  100.0
+('energy bar', 'oil')    ->       {'french fries'}        confidence :  100.0
+('energy bar', 'sparkling water')    ->       {'french fries'}        confidence :  100.0
+('energy bar', 'green grapes')    ->       {'mineral water'}        confidence :  100.0
+('energy bar', 'rice')    ->       {'mineral water'}        confidence :  100.0
+('energy bar', 'yams')    ->       {'mineral water'}        confidence :  100.0
+('energy drink', 'salmon')    ->       {'french fries'}        confidence :  75.0
+('energy drink', 'spinach')    ->       {'french fries'}        confidence :  75.0
+('energy drink', 'shampoo')    ->       {'fresh bread'}        confidence :  100.0
+('energy drink', 'grated cheese')    ->       {'spaghetti'}        confidence :  72.72727272727273
+('energy drink', 'green beans')    ->       {'spaghetti'}        confidence :  100.0
+('energy drink', 'tomato juice')    ->       {'green tea'}        confidence :  75.0
+('energy drink', 'herb & pepper')    ->       {'shrimp'}        confidence :  100.0
+('energy drink', 'muffins')    ->       {'hot dogs'}        confidence :  100.0
+('energy drink', 'magazines')    ->       {'salt'}        confidence :  100.0
+('energy drink', 'magazines')    ->       {'shrimp'}        confidence :  100.0
+('energy drink', 'spinach')    ->       {'mineral water'}        confidence :  75.0
+('energy drink', 'strong cheese')    ->       {'mineral water'}        confidence :  100.0
+('energy drink', 'yams')    ->       {'mineral water'}        confidence :  100.0
+('oil', 'whole weat flour')    ->       {'energy drink'}        confidence :  100.0
+('energy drink', 'red wine')    ->       {'spaghetti'}        confidence :  83.33333333333334
+('energy drink', 'salt')    ->       {'shrimp'}        confidence :  80.0
+('energy drink', 'shampoo')    ->       {'shrimp'}        confidence :  100.0
+('energy drink', 'shampoo')    ->       {'tomatoes'}        confidence :  100.0
+('energy drink', 'strong cheese')    ->       {'spaghetti'}        confidence :  100.0
+('escalope', 'extra dark chocolate')    ->       {'mineral water'}        confidence :  75.0
+('fresh bread', 'mushroom cream sauce')    ->       {'escalope'}        confidence :  85.71428571428571
+('frozen smoothie', 'mint green tea')    ->       {'escalope'}        confidence :  100.0
+('escalope', 'ketchup')    ->       {'green tea'}        confidence :  100.0
+('gums', 'pasta')    ->       {'escalope'}        confidence :  100.0
+('escalope', 'hand protein bar')    ->       {'spaghetti'}        confidence :  75.0
+('escalope', 'mayonnaise')    ->       {'spaghetti'}        confidence :  100.0
+('escalope', 'melons')    ->       {'spaghetti'}        confidence :  75.0
+('escalope', 'pet food')    ->       {'mineral water'}        confidence :  100.0
+('mushroom cream sauce', 'pasta')    ->       {'escalope'}        confidence :  95.0
+('pepper', 'sparkling water')    ->       {'escalope'}        confidence :  75.0
+('sandwich', 'turkey')    ->       {'escalope'}        confidence :  100.0
+('shallot', 'white wine')    ->       {'escalope'}        confidence :  100.0
+('escalope', 'spinach')    ->       {'spaghetti'}        confidence :  100.0
+('extra dark chocolate', 'french wine')    ->       {'mineral water'}        confidence :  75.0
+('extra dark chocolate', 'fresh tuna')    ->       {'mineral water'}        confidence :  100.0
+('extra dark chocolate', 'frozen smoothie')    ->       {'milk'}        confidence :  80.0
+('extra dark chocolate', 'gluten free bar')    ->       {'mineral water'}        confidence :  100.0
+('extra dark chocolate', 'grated cheese')    ->       {'mineral water'}        confidence :  71.42857142857143
+('extra dark chocolate', 'grated cheese')    ->       {'spaghetti'}        confidence :  85.71428571428571
+('extra dark chocolate', 'hot dogs')    ->       {'green tea'}        confidence :  100.0
+('extra dark chocolate', 'zucchini')    ->       {'green tea'}        confidence :  100.0
+('extra dark chocolate', 'ground beef')    ->       {'spaghetti'}        confidence :  73.33333333333333
+('extra dark chocolate', 'herb & pepper')    ->       {'spaghetti'}        confidence :  77.77777777777779
+('extra dark chocolate', 'hot dogs')    ->       {'spaghetti'}        confidence :  100.0
+('extra dark chocolate', 'tomato juice')    ->       {'light cream'}        confidence :  100.0
+('extra dark chocolate', 'mayonnaise')    ->       {'mineral water'}        confidence :  100.0
+('extra dark chocolate', 'tomato sauce')    ->       {'milk'}        confidence :  100.0
+('extra dark chocolate', 'nonfat milk')    ->       {'mineral water'}        confidence :  100.0
+('extra dark chocolate', 'protein bar')    ->       {'mineral water'}        confidence :  75.0
+('extra dark chocolate', 'salmon')    ->       {'mineral water'}        confidence :  70.0
+('extra dark chocolate', 'spinach')    ->       {'mineral water'}        confidence :  100.0
+('extra dark chocolate', 'vegetables mix')    ->       {'mineral water'}        confidence :  100.0
+('extra dark chocolate', 'whole wheat pasta')    ->       {'mineral water'}        confidence :  100.0
+('extra dark chocolate', 'zucchini')    ->       {'mineral water'}        confidence :  100.0
+('extra dark chocolate', 'nonfat milk')    ->       {'spaghetti'}        confidence :  100.0
+('extra dark chocolate', 'tomato juice')    ->       {'olive oil'}        confidence :  100.0
+('extra dark chocolate', 'protein bar')    ->       {'spaghetti'}        confidence :  75.0
+('extra dark chocolate', 'yams')    ->       {'shrimp'}        confidence :  100.0
+('flax seed', 'mushroom cream sauce')    ->       {'green tea'}        confidence :  100.0
+('flax seed', 'pepper')    ->       {'spaghetti'}        confidence :  75.0
+('french wine', 'shallot')    ->       {'french fries'}        confidence :  100.0
+('fromage blanc', 'herb & pepper')    ->       {'french fries'}        confidence :  100.0
+('frozen smoothie', 'melons')    ->       {'french fries'}        confidence :  75.0
+('frozen smoothie', 'mint green tea')    ->       {'french fries'}        confidence :  100.0
+('frozen vegetables', 'spinach')    ->       {'french fries'}        confidence :  100.0
+('grated cheese', 'shallot')    ->       {'french fries'}        confidence :  75.0
+('green beans', 'honey')    ->       {'french fries'}        confidence :  83.33333333333334
+('green beans', 'light mayo')    ->       {'french fries'}        confidence :  75.0
+('green beans', 'pepper')    ->       {'french fries'}        confidence :  100.0
+('green beans', 'tomato juice')    ->       {'french fries'}        confidence :  100.0
+('gums', 'pickles')    ->       {'french fries'}        confidence :  100.0
+('gums', 'sparkling water')    ->       {'french fries'}        confidence :  100.0
+('ham', 'mint green tea')    ->       {'french fries'}        confidence :  100.0
+('ham', 'spinach')    ->       {'french fries'}        confidence :  100.0
+('ketchup', 'salmon')    ->       {'french fries'}        confidence :  100.0
+('light cream', 'whole weat flour')    ->       {'french fries'}        confidence :  100.0
+('light mayo', 'strawberries')    ->       {'french fries'}        confidence :  100.0
+('light mayo', 'strong cheese')    ->       {'french fries'}        confidence :  100.0
+('mint green tea', 'pepper')    ->       {'french fries'}        confidence :  100.0
+('mint green tea', 'rice')    ->       {'french fries'}        confidence :  100.0
+('mint green tea', 'yogurt cake')    ->       {'french fries'}        confidence :  100.0
+('muffins', 'strong cheese')    ->       {'french fries'}        confidence :  100.0
+('mushroom cream sauce', 'pet food')    ->       {'french fries'}        confidence :  100.0
+('mushroom cream sauce', 'whole weat flour')    ->       {'french fries'}        confidence :  100.0
+('mushroom cream sauce', 'whole wheat pasta')    ->       {'french fries'}        confidence :  100.0
+('oil', 'whole weat flour')    ->       {'french fries'}        confidence :  100.0
+('olive oil', 'spinach')    ->       {'french fries'}        confidence :  75.0
+('pancakes', 'shallot')    ->       {'french fries'}        confidence :  100.0
+('red wine', 'salt')    ->       {'french fries'}        confidence :  75.0
+('salt', 'tomato sauce')    ->       {'french fries'}        confidence :  100.0
+('shallot', 'toothpaste')    ->       {'french fries'}        confidence :  100.0
+('sparkling water', 'strawberries')    ->       {'french fries'}        confidence :  100.0
+('tomato juice', 'yams')    ->       {'french fries'}        confidence :  100.0
+('french wine', 'salad')    ->       {'fresh tuna'}        confidence :  100.0
+('french wine', 'gums')    ->       {'olive oil'}        confidence :  75.0
+('french wine', 'hand protein bar')    ->       {'honey'}        confidence :  100.0
+('french wine', 'herb & pepper')    ->       {'mineral water'}        confidence :  71.42857142857143
+('french wine', 'herb & pepper')    ->       {'spaghetti'}        confidence :  71.42857142857143
+('french wine', 'melons')    ->       {'spaghetti'}        confidence :  75.0
+('french wine', 'muffins')    ->       {'milk'}        confidence :  100.0
+('french wine', 'tomato sauce')    ->       {'milk'}        confidence :  75.0
+('french wine', 'white wine')    ->       {'mineral water'}        confidence :  75.0
+('french wine', 'muffins')    ->       {'pancakes'}        confidence :  100.0
+('french wine', 'pickles')    ->       {'olive oil'}        confidence :  100.0
+('french wine', 'white wine')    ->       {'olive oil'}        confidence :  75.0
+('french wine', 'pepper')    ->       {'spaghetti'}        confidence :  70.0
+('french wine', 'white wine')    ->       {'spaghetti'}        confidence :  75.0
+('fresh bread', 'sandwich')    ->       {'frozen smoothie'}        confidence :  100.0
+('fresh bread', 'green beans')    ->       {'mineral water'}        confidence :  80.0
+('fresh bread', 'gums')    ->       {'mineral water'}        confidence :  75.0
+('fresh bread', 'hand protein bar')    ->       {'tomatoes'}        confidence :  100.0
+('fresh bread', 'shallot')    ->       {'low fat yogurt'}        confidence :  100.0
+('fresh bread', 'mashed potato')    ->       {'mineral water'}        confidence :  100.0
+('fresh bread', 'mashed potato')    ->       {'soup'}        confidence :  100.0
+('fresh bread', 'mayonnaise')    ->       {'mineral water'}        confidence :  100.0
+('fresh bread', 'mayonnaise')    ->       {'olive oil'}        confidence :  75.0
+('fresh bread', 'tea')    ->       {'mineral water'}        confidence :  100.0
+('fresh bread', 'zucchini')    ->       {'mineral water'}        confidence :  75.0
+('fresh bread', 'strong cheese')    ->       {'olive oil'}        confidence :  100.0
+('fresh bread', 'strong cheese')    ->       {'pancakes'}        confidence :  100.0
+('parmesan cheese', 'strawberries')    ->       {'fresh bread'}        confidence :  75.0
+('fresh bread', 'strong cheese')    ->       {'spaghetti'}        confidence :  100.0
+('fresh tuna', 'green grapes')    ->       {'frozen smoothie'}        confidence :  100.0
+('fresh tuna', 'mayonnaise')    ->       {'frozen smoothie'}        confidence :  100.0
+('frozen smoothie', 'mayonnaise')    ->       {'fresh tuna'}        confidence :  100.0
+('fresh tuna', 'nonfat milk')    ->       {'frozen vegetables'}        confidence :  100.0
+('fresh tuna', 'protein bar')    ->       {'frozen vegetables'}        confidence :  75.0
+('fresh tuna', 'gluten free bar')    ->       {'pancakes'}        confidence :  80.0
+('fresh tuna', 'green grapes')    ->       {'green tea'}        confidence :  100.0
+('fresh tuna', 'green grapes')    ->       {'low fat yogurt'}        confidence :  100.0
+('fresh tuna', 'green grapes')    ->       {'salmon'}        confidence :  100.0
+('fresh tuna', 'green grapes')    ->       {'whole weat flour'}        confidence :  100.0
+('fresh tuna', 'ham')    ->       {'mineral water'}        confidence :  80.0
+('fresh tuna', 'hand protein bar')    ->       {'mineral water'}        confidence :  100.0
+('fresh tuna', 'protein bar')    ->       {'honey'}        confidence :  75.0
+('fresh tuna', 'light cream')    ->       {'milk'}        confidence :  75.0
+('fresh tuna', 'light cream')    ->       {'mineral water'}        confidence :  100.0
+('fresh tuna', 'magazines')    ->       {'milk'}        confidence :  100.0
+('fresh tuna', 'mashed potato')    ->       {'spaghetti'}        confidence :  100.0
+('fresh tuna', 'meatballs')    ->       {'mineral water'}        confidence :  71.42857142857143
+('fresh tuna', 'mushroom cream sauce')    ->       {'mineral water'}        confidence :  75.0
+('fresh tuna', 'red wine')    ->       {'mineral water'}        confidence :  75.0
+('fresh tuna', 'soup')    ->       {'mineral water'}        confidence :  70.0
+('fresh tuna', 'tomato juice')    ->       {'mineral water'}        confidence :  83.33333333333334
+('mint', 'salad')    ->       {'fresh tuna'}        confidence :  100.0
+('fresh tuna', 'protein bar')    ->       {'parmesan cheese'}        confidence :  75.0
+('fresh tuna', 'protein bar')    ->       {'spaghetti'}        confidence :  100.0
+('fresh tuna', 'zucchini')    ->       {'whole wheat pasta'}        confidence :  100.0
+('fromage blanc', 'herb & pepper')    ->       {'frozen vegetables'}        confidence :  100.0
+('fromage blanc', 'mayonnaise')    ->       {'frozen vegetables'}        confidence :  100.0
+('fromage blanc', 'tomato sauce')    ->       {'grated cheese'}        confidence :  100.0
+('fromage blanc', 'green beans')    ->       {'spaghetti'}        confidence :  100.0
+('fromage blanc', 'sparkling water')    ->       {'green tea'}        confidence :  100.0
+('fromage blanc', 'gums')    ->       {'honey'}        confidence :  100.0
+('fromage blanc', 'ham')    ->       {'honey'}        confidence :  100.0
+('fromage blanc', 'low fat yogurt')    ->       {'spaghetti'}        confidence :  71.42857142857143
+('fromage blanc', 'mayonnaise')    ->       {'mineral water'}        confidence :  100.0
+('fromage blanc', 'meatballs')    ->       {'spaghetti'}        confidence :  75.0
+('fromage blanc', 'sparkling water')    ->       {'mineral water'}        confidence :  100.0
+('fromage blanc', 'yams')    ->       {'salmon'}        confidence :  100.0
+('fromage blanc', 'strong cheese')    ->       {'spaghetti'}        confidence :  100.0
+('fromage blanc', 'tomato sauce')    ->       {'spaghetti'}        confidence :  100.0
+('frozen smoothie', 'mashed potato')    ->       {'frozen vegetables'}        confidence :  100.0
+('green grapes', 'whole weat flour')    ->       {'frozen smoothie'}        confidence :  75.0
+('gums', 'whole weat flour')    ->       {'frozen smoothie'}        confidence :  100.0
+('honey', 'sparkling water')    ->       {'frozen smoothie'}        confidence :  83.33333333333334
+('frozen smoothie', 'mashed potato')    ->       {'spaghetti'}        confidence :  100.0
+('frozen smoothie', 'nonfat milk')    ->       {'milk'}        confidence :  80.0
+('frozen smoothie', 'spinach')    ->       {'mineral water'}        confidence :  87.5
+('mushroom cream sauce', 'whole weat flour')    ->       {'frozen smoothie'}        confidence :  100.0
+('frozen smoothie', 'pasta')    ->       {'shrimp'}        confidence :  80.0
+('rice', 'spinach')    ->       {'frozen smoothie'}        confidence :  75.0
+('frozen smoothie', 'tomato sauce')    ->       {'spaghetti'}        confidence :  70.0
+('gluten free bar', 'mushroom cream sauce')    ->       {'frozen vegetables'}        confidence :  100.0
+('green grapes', 'light mayo')    ->       {'frozen vegetables'}        confidence :  100.0
+('ground beef', 'tea')    ->       {'frozen vegetables'}        confidence :  100.0
+('gums', 'parmesan cheese')    ->       {'frozen vegetables'}        confidence :  75.0
+('ham', 'tomato juice')    ->       {'frozen vegetables'}        confidence :  100.0
+('frozen vegetables', 'hand protein bar')    ->       {'mineral water'}        confidence :  80.0
+('ketchup', 'light mayo')    ->       {'frozen vegetables'}        confidence :  100.0
+('light cream', 'mashed potato')    ->       {'frozen vegetables'}        confidence :  100.0
+('low fat yogurt', 'tea')    ->       {'frozen vegetables'}        confidence :  100.0
+('magazines', 'protein bar')    ->       {'frozen vegetables'}        confidence :  100.0
+('frozen vegetables', 'mayonnaise')    ->       {'mineral water'}        confidence :  80.0
+('melons', 'nonfat milk')    ->       {'frozen vegetables'}        confidence :  100.0
+('mint green tea', 'pepper')    ->       {'frozen vegetables'}        confidence :  100.0
+('muffins', 'tomato sauce')    ->       {'frozen vegetables'}        confidence :  100.0
+('muffins', 'whole wheat pasta')    ->       {'frozen vegetables'}        confidence :  75.0
+('nonfat milk', 'parmesan cheese')    ->       {'frozen vegetables'}        confidence :  100.0
+('oil', 'tea')    ->       {'frozen vegetables'}        confidence :  100.0
+('parmesan cheese', 'tea')    ->       {'frozen vegetables'}        confidence :  100.0
+('parmesan cheese', 'tomato sauce')    ->       {'frozen vegetables'}        confidence :  100.0
+('parmesan cheese', 'vegetables mix')    ->       {'frozen vegetables'}        confidence :  75.0
+('frozen vegetables', 'pasta')    ->       {'shrimp'}        confidence :  83.33333333333334
+('frozen vegetables', 'spinach')    ->       {'tomatoes'}        confidence :  100.0
+('toothpaste', 'whole wheat pasta')    ->       {'frozen vegetables'}        confidence :  100.0
+('gluten free bar', 'yams')    ->       {'grated cheese'}        confidence :  100.0
+('gluten free bar', 'ground beef')    ->       {'mineral water'}        confidence :  75.0
+('gluten free bar', 'honey')    ->       {'mineral water'}        confidence :  75.0
+('gluten free bar', 'mushroom cream sauce')    ->       {'honey'}        confidence :  100.0
+('gluten free bar', 'hot dogs')    ->       {'mineral water'}        confidence :  100.0
+('gluten free bar', 'nonfat milk')    ->       {'light mayo'}        confidence :  100.0
+('gluten free bar', 'vegetables mix')    ->       {'milk'}        confidence :  100.0
+('gluten free bar', 'mushroom cream sauce')    ->       {'mineral water'}        confidence :  100.0
+('gluten free bar', 'red wine')    ->       {'mineral water'}        confidence :  100.0
+('gluten free bar', 'shrimp')    ->       {'mineral water'}        confidence :  100.0
+('gluten free bar', 'soup')    ->       {'mineral water'}        confidence :  100.0
+('gluten free bar', 'tomato sauce')    ->       {'mineral water'}        confidence :  100.0
+('gluten free bar', 'turkey')    ->       {'mineral water'}        confidence :  75.0
+('gluten free bar', 'mushroom cream sauce')    ->       {'salmon'}        confidence :  100.0
+('gluten free bar', 'olive oil')    ->       {'pancakes'}        confidence :  75.0
+('gluten free bar', 'olive oil')    ->       {'spaghetti'}        confidence :  75.0
+('gluten free bar', 'whole wheat rice')    ->       {'pancakes'}        confidence :  100.0
+('gluten free bar', 'shrimp')    ->       {'salmon'}        confidence :  100.0
+('gluten free bar', 'vegetables mix')    ->       {'salmon'}        confidence :  100.0
+('grated cheese', 'green grapes')    ->       {'mineral water'}        confidence :  100.0
+('grated cheese', 'soda')    ->       {'green tea'}        confidence :  100.0
+('grated cheese', 'soda')    ->       {'ground beef'}        confidence :  100.0
+('grated cheese', 'gums')    ->       {'spaghetti'}        confidence :  77.77777777777779
+('grated cheese', 'hand protein bar')    ->       {'mineral water'}        confidence :  75.0
+('grated cheese', 'oatmeal')    ->       {'herb & pepper'}        confidence :  100.0
+('grated cheese', 'shallot')    ->       {'low fat yogurt'}        confidence :  75.0
+('grated cheese', 'meatballs')    ->       {'spaghetti'}        confidence :  75.0
+('grated cheese', 'mint green tea')    ->       {'melons'}        confidence :  100.0
+('grated cheese', 'mint green tea')    ->       {'milk'}        confidence :  100.0
+('grated cheese', 'nonfat milk')    ->       {'mineral water'}        confidence :  71.42857142857143
+('nonfat milk', 'olive oil')    ->       {'grated cheese'}        confidence :  75.0
+('oil', 'shallot')    ->       {'grated cheese'}        confidence :  100.0
+('grated cheese', 'strong cheese')    ->       {'olive oil'}        confidence :  100.0
+('grated cheese', 'pet food')    ->       {'spaghetti'}        confidence :  100.0
+('grated cheese', 'shampoo')    ->       {'spaghetti'}        confidence :  75.0
+('grated cheese', 'soda')    ->       {'spaghetti'}        confidence :  100.0
+('grated cheese', 'strawberries')    ->       {'spaghetti'}        confidence :  71.42857142857143
+('grated cheese', 'strong cheese')    ->       {'spaghetti'}        confidence :  100.0
+('green beans', 'ground beef')    ->       {'spaghetti'}        confidence :  72.72727272727273
+('green beans', 'magazines')    ->       {'milk'}        confidence :  100.0
+('green beans', 'tomato juice')    ->       {'milk'}        confidence :  75.0
+('green beans', 'pancakes')    ->       {'spaghetti'}        confidence :  70.0
+('green beans', 'strong cheese')    ->       {'spaghetti'}        confidence :  75.0
+('green beans', 'tomatoes')    ->       {'spaghetti'}        confidence :  85.71428571428571
+('green grapes', 'gums')    ->       {'green tea'}        confidence :  75.0
+('green grapes', 'ham')    ->       {'green tea'}        confidence :  100.0
+('green grapes', 'herb & pepper')    ->       {'green tea'}        confidence :  100.0
+('green grapes', 'magazines')    ->       {'green tea'}        confidence :  100.0
+('green grapes', 'ham')    ->       {'mineral water'}        confidence :  100.0
+('green grapes', 'herb & pepper')    ->       {'mint'}        confidence :  100.0
+('green grapes', 'magazines')    ->       {'spaghetti'}        confidence :  100.0
+('green grapes', 'oatmeal')    ->       {'mineral water'}        confidence :  100.0
+('green grapes', 'salmon')    ->       {'mineral water'}        confidence :  70.0
+('green grapes', 'soup')    ->       {'mineral water'}        confidence :  75.0
+('green grapes', 'tomato sauce')    ->       {'mineral water'}        confidence :  100.0
+('green grapes', 'whole wheat rice')    ->       {'mineral water'}        confidence :  75.0
+('green grapes', 'parmesan cheese')    ->       {'spaghetti'}        confidence :  100.0
+('green grapes', 'whole weat flour')    ->       {'salmon'}        confidence :  75.0
+('green grapes', 'toothpaste')    ->       {'spaghetti'}        confidence :  100.0
+('green grapes', 'yams')    ->       {'spaghetti'}        confidence :  100.0
+('green grapes', 'strawberries')    ->       {'turkey'}        confidence :  100.0
+('ground beef', 'shallot')    ->       {'green tea'}        confidence :  80.0
+('ham', 'mint')    ->       {'green tea'}        confidence :  100.0
+('ham', 'whole weat flour')    ->       {'green tea'}        confidence :  100.0
+('herb & pepper', 'pickles')    ->       {'green tea'}        confidence :  80.0
+('hot dogs', 'oatmeal')    ->       {'green tea'}        confidence :  100.0
+('hot dogs', 'whole weat flour')    ->       {'green tea'}        confidence :  75.0
+('ketchup', 'pet food')    ->       {'green tea'}        confidence :  100.0
+('mayonnaise', 'melons')    ->       {'green tea'}        confidence :  100.0
+('mayonnaise', 'nonfat milk')    ->       {'green tea'}        confidence :  100.0
+('mayonnaise', 'vegetables mix')    ->       {'green tea'}        confidence :  100.0
+('mint', 'toothpaste')    ->       {'green tea'}        confidence :  100.0
+('muffins', 'whole weat flour')    ->       {'green tea'}        confidence :  100.0
+('pepper', 'salt')    ->       {'green tea'}        confidence :  100.0
+('pickles', 'shrimp')    ->       {'green tea'}        confidence :  100.0
+('rice', 'toothpaste')    ->       {'green tea'}        confidence :  75.0
+('rice', 'whole weat flour')    ->       {'green tea'}        confidence :  100.0
+('shallot', 'whole wheat rice')    ->       {'green tea'}        confidence :  100.0
+('green tea', 'soda')    ->       {'spaghetti'}        confidence :  80.0
+('green tea', 'tomato sauce')    ->       {'spaghetti'}        confidence :  73.68421052631578
+('spinach', 'tomato juice')    ->       {'green tea'}        confidence :  75.0
+('tomato sauce', 'whole wheat pasta')    ->       {'green tea'}        confidence :  100.0
+('ground beef', 'napkins')    ->       {'herb & pepper'}        confidence :  100.0
+('herb & pepper', 'napkins')    ->       {'ground beef'}        confidence :  100.0
+('herb & pepper', 'oatmeal')    ->       {'ground beef'}        confidence :  75.0
+('herb & pepper', 'toothpaste')    ->       {'ground beef'}        confidence :  75.0
+('ketchup', 'light mayo')    ->       {'ground beef'}        confidence :  100.0
+('light cream', 'mayonnaise')    ->       {'ground beef'}        confidence :  100.0
+('light cream', 'melons')    ->       {'ground beef'}        confidence :  100.0
+('light cream', 'vegetables mix')    ->       {'ground beef'}        confidence :  100.0
+('low fat yogurt', 'tea')    ->       {'ground beef'}        confidence :  100.0
+('ground beef', 'mashed potato')    ->       {'spaghetti'}        confidence :  100.0
+('ground beef', 'mayonnaise')    ->       {'mineral water'}        confidence :  83.33333333333334
+('meatballs', 'tomato sauce')    ->       {'ground beef'}        confidence :  100.0
+('melons', 'tomato sauce')    ->       {'ground beef'}        confidence :  75.0
+('ground beef', 'nonfat milk')    ->       {'mineral water'}        confidence :  85.71428571428571
+('ground beef', 'salad')    ->       {'mineral water'}        confidence :  100.0
+('ground beef', 'whole weat flour')    ->       {'mineral water'}        confidence :  72.72727272727273
+('mint', 'soda')    ->       {'ground beef'}        confidence :  100.0
+('oatmeal', 'tomato sauce')    ->       {'ground beef'}        confidence :  100.0
+('olive oil', 'pet food')    ->       {'ground beef'}        confidence :  100.0
+('parmesan cheese', 'tomato sauce')    ->       {'ground beef'}        confidence :  100.0
+('parmesan cheese', 'yams')    ->       {'ground beef'}        confidence :  100.0
+('pet food', 'salmon')    ->       {'ground beef'}        confidence :  100.0
+('ground beef', 'sandwich')    ->       {'spaghetti'}        confidence :  75.0
+('ground beef', 'tea')    ->       {'soup'}        confidence :  80.0
+('ground beef', 'strong cheese')    ->       {'spaghetti'}        confidence :  70.0
+('gums', 'hot dogs')    ->       {'mineral water'}        confidence :  80.0
+('gums', 'light mayo')    ->       {'tomatoes'}        confidence :  75.0
+('gums', 'meatballs')    ->       {'tomato juice'}        confidence :  100.0
+('gums', 'whole weat flour')    ->       {'milk'}        confidence :  100.0
+('gums', 'whole wheat pasta')    ->       {'milk'}        confidence :  80.0
+('gums', 'mint')    ->       {'mineral water'}        confidence :  100.0
+('gums', 'parmesan cheese')    ->       {'tomatoes'}        confidence :  75.0
+('gums', 'vegetables mix')    ->       {'spaghetti'}        confidence :  75.0
+('ham', 'hot dogs')    ->       {'spaghetti'}        confidence :  85.71428571428571
+('ham', 'ketchup')    ->       {'mineral water'}        confidence :  100.0
+('ham', 'ketchup')    ->       {'pancakes'}        confidence :  100.0
+('ham', 'ketchup')    ->       {'spaghetti'}        confidence :  100.0
+('ham', 'light mayo')    ->       {'spaghetti'}        confidence :  75.0
+('ham', 'oatmeal')    ->       {'low fat yogurt'}        confidence :  100.0
+('ham', 'pasta')    ->       {'low fat yogurt'}        confidence :  100.0
+('ham', 'meatballs')    ->       {'mineral water'}        confidence :  75.0
+('ham', 'protein bar')    ->       {'mineral water'}        confidence :  71.42857142857143
+('ham', 'oatmeal')    ->       {'muffins'}        confidence :  100.0
+('muffins', 'oatmeal')    ->       {'ham'}        confidence :  100.0
+('ham', 'pasta')    ->       {'muffins'}        confidence :  100.0
+('ham', 'oatmeal')    ->       {'pasta'}        confidence :  100.0
+('ham', 'pasta')    ->       {'oatmeal'}        confidence :  100.0
+('oatmeal', 'pasta')    ->       {'ham'}        confidence :  100.0
+('ham', 'oatmeal')    ->       {'whole wheat rice'}        confidence :  100.0
+('ham', 'pasta')    ->       {'whole wheat rice'}        confidence :  100.0
+('ham', 'salt')    ->       {'red wine'}        confidence :  100.0
+('hand protein bar', 'pancakes')    ->       {'mineral water'}        confidence :  100.0
+('hand protein bar', 'mint')    ->       {'spaghetti'}        confidence :  100.0
+('hand protein bar', 'pancakes')    ->       {'spaghetti'}        confidence :  80.0
+('herb & pepper', 'melons')    ->       {'mineral water'}        confidence :  75.0
+('herb & pepper', 'whole weat flour')    ->       {'milk'}        confidence :  77.77777777777779
+('herb & pepper', 'salt')    ->       {'mineral water'}        confidence :  75.0
+('herb & pepper', 'whole weat flour')    ->       {'mineral water'}        confidence :  77.77777777777779
+('herb & pepper', 'mushroom cream sauce')    ->       {'spaghetti'}        confidence :  71.42857142857143
+('herb & pepper', 'pasta')    ->       {'shrimp'}        confidence :  100.0
+('herb & pepper', 'strong cheese')    ->       {'spaghetti'}        confidence :  100.0
+('honey', 'mashed potato')    ->       {'spaghetti'}        confidence :  100.0
+('honey', 'mayonnaise')    ->       {'milk'}        confidence :  100.0
+('honey', 'mayonnaise')    ->       {'oil'}        confidence :  100.0
+('honey', 'mint green tea')    ->       {'milk'}        confidence :  100.0
+('honey', 'mint green tea')    ->       {'soup'}        confidence :  100.0
+('mint green tea', 'tomatoes')    ->       {'honey'}        confidence :  100.0
+('honey', 'tomato sauce')    ->       {'spaghetti'}        confidence :  100.0
+('sparkling water', 'strawberries')    ->       {'honey'}        confidence :  100.0
+('hot dogs', 'tomato sauce')    ->       {'milk'}        confidence :  100.0
+('hot dogs', 'rice')    ->       {'spaghetti'}        confidence :  77.77777777777779
+('soup', 'sparkling water')    ->       {'hot dogs'}        confidence :  100.0
+('hot dogs', 'tea')    ->       {'spaghetti'}        confidence :  100.0
+('sparkling water', 'whole weat flour')    ->       {'hot dogs'}        confidence :  100.0
+('hot dogs', 'tea')    ->       {'tomatoes'}        confidence :  100.0
+('ketchup', 'low fat yogurt')    ->       {'mineral water'}        confidence :  75.0
+('ketchup', 'protein bar')    ->       {'milk'}        confidence :  100.0
+('ketchup', 'salmon')    ->       {'milk'}        confidence :  100.0
+('ketchup', 'soup')    ->       {'milk'}        confidence :  75.0
+('ketchup', 'rice')    ->       {'mineral water'}        confidence :  100.0
+('ketchup', 'tomato juice')    ->       {'pancakes'}        confidence :  75.0
+('ketchup', 'pet food')    ->       {'red wine'}        confidence :  100.0
+('ketchup', 'protein bar')    ->       {'spaghetti'}        confidence :  100.0
+('ketchup', 'protein bar')    ->       {'tomatoes'}        confidence :  100.0
+('ketchup', 'whole wheat pasta')    ->       {'spaghetti'}        confidence :  100.0
+('ketchup', 'vegetables mix')    ->       {'whole wheat rice'}        confidence :  100.0
+('light cream', 'low fat yogurt')    ->       {'olive oil'}        confidence :  75.0
+('light cream', 'mayonnaise')    ->       {'mineral water'}        confidence :  100.0
+('light cream', 'melons')    ->       {'mineral water'}        confidence :  100.0
+('light cream', 'strawberries')    ->       {'milk'}        confidence :  100.0
+('light cream', 'mint')    ->       {'mineral water'}        confidence :  100.0
+('light cream', 'nonfat milk')    ->       {'mineral water'}        confidence :  100.0
+('light cream', 'oil')    ->       {'mineral water'}        confidence :  69.23076923076923
+('light cream', 'red wine')    ->       {'mineral water'}        confidence :  100.0
+('light cream', 'strawberries')    ->       {'mineral water'}        confidence :  100.0
+('light cream', 'tomato sauce')    ->       {'mineral water'}        confidence :  71.42857142857143
+('light cream', 'vegetables mix')    ->       {'mineral water'}        confidence :  100.0
+('light cream', 'muffins')    ->       {'spaghetti'}        confidence :  100.0
+('light cream', 'nonfat milk')    ->       {'spaghetti'}        confidence :  100.0
+('light cream', 'parmesan cheese')    ->       {'pancakes'}        confidence :  100.0
+('light cream', 'salt')    ->       {'pancakes'}        confidence :  100.0
+('light cream', 'salt')    ->       {'parmesan cheese'}        confidence :  100.0
+('light cream', 'parmesan cheese')    ->       {'shrimp'}        confidence :  100.0
+('light cream', 'pet food')    ->       {'turkey'}        confidence :  100.0
+('light cream', 'protein bar')    ->       {'spaghetti'}        confidence :  100.0
+('light cream', 'salad')    ->       {'shrimp'}        confidence :  100.0
+('light cream', 'salt')    ->       {'shrimp'}        confidence :  100.0
+('light cream', 'yams')    ->       {'spaghetti'}        confidence :  100.0
+('light mayo', 'meatballs')    ->       {'mineral water'}        confidence :  100.0
+('light mayo', 'melons')    ->       {'spaghetti'}        confidence :  75.0
+('light mayo', 'mint')    ->       {'mineral water'}        confidence :  100.0
+('light mayo', 'salt')    ->       {'mineral water'}        confidence :  100.0
+('light mayo', 'mushroom cream sauce')    ->       {'pancakes'}        confidence :  80.0
+('low fat yogurt', 'mashed potato')    ->       {'spaghetti'}        confidence :  100.0
+('low fat yogurt', 'mayonnaise')    ->       {'mineral water'}        confidence :  80.0
+('low fat yogurt', 'toothpaste')    ->       {'mineral water'}        confidence :  75.0
+('low fat yogurt', 'zucchini')    ->       {'mineral water'}        confidence :  75.0
+('muffins', 'oatmeal')    ->       {'low fat yogurt'}        confidence :  100.0
+('low fat yogurt', 'napkins')    ->       {'spaghetti'}        confidence :  100.0
+('napkins', 'spaghetti')    ->       {'low fat yogurt'}        confidence :  100.0
+('oatmeal', 'pasta')    ->       {'low fat yogurt'}        confidence :  100.0
+('oil', 'pet food')    ->       {'low fat yogurt'}        confidence :  100.0
+('low fat yogurt', 'zucchini')    ->       {'olive oil'}        confidence :  75.0
+('low fat yogurt', 'tea')    ->       {'soup'}        confidence :  100.0
+('magazines', 'mayonnaise')    ->       {'mineral water'}        confidence :  71.42857142857143
+('mayonnaise', 'nonfat milk')    ->       {'magazines'}        confidence :  100.0
+('magazines', 'nonfat milk')    ->       {'mineral water'}        confidence :  100.0
+('magazines', 'pancakes')    ->       {'mineral water'}        confidence :  70.0
+('magazines', 'soup')    ->       {'mineral water'}        confidence :  75.0
+('magazines', 'tea')    ->       {'mineral water'}        confidence :  75.0
+('magazines', 'pasta')    ->       {'shrimp'}        confidence :  100.0
+('magazines', 'toothpaste')    ->       {'spaghetti'}        confidence :  100.0
+('mashed potato', 'soup')    ->       {'mineral water'}        confidence :  80.0
+('mashed potato', 'tomatoes')    ->       {'mineral water'}        confidence :  100.0
+('mashed potato', 'olive oil')    ->       {'spaghetti'}        confidence :  100.0
+('mashed potato', 'olive oil')    ->       {'tomato sauce'}        confidence :  100.0
+('mashed potato', 'tomato sauce')    ->       {'olive oil'}        confidence :  100.0
+('mashed potato', 'pasta')    ->       {'spaghetti'}        confidence :  100.0
+('mashed potato', 'salmon')    ->       {'spaghetti'}        confidence :  100.0
+('mashed potato', 'tomatoes')    ->       {'soup'}        confidence :  100.0
+('mashed potato', 'tomato sauce')    ->       {'spaghetti'}        confidence :  100.0
+('mayonnaise', 'meatballs')    ->       {'soup'}        confidence :  100.0
+('mayonnaise', 'melons')    ->       {'vegetables mix'}        confidence :  100.0
+('mayonnaise', 'vegetables mix')    ->       {'melons'}        confidence :  100.0
+('mayonnaise', 'whole wheat pasta')    ->       {'milk'}        confidence :  100.0
+('mayonnaise', 'mushroom cream sauce')    ->       {'mineral water'}        confidence :  100.0
+('mayonnaise', 'nonfat milk')    ->       {'mineral water'}        confidence :  100.0
+('mayonnaise', 'olive oil')    ->       {'mineral water'}        confidence :  83.33333333333334
+('mayonnaise', 'pancakes')    ->       {'mineral water'}        confidence :  77.77777777777779
+('mayonnaise', 'salmon')    ->       {'mineral water'}        confidence :  75.0
+('mayonnaise', 'soup')    ->       {'mineral water'}        confidence :  71.42857142857143
+('mayonnaise', 'turkey')    ->       {'mineral water'}        confidence :  75.0
+('mayonnaise', 'whole wheat rice')    ->       {'mineral water'}        confidence :  75.0
+('mayonnaise', 'mushroom cream sauce')    ->       {'pancakes'}        confidence :  100.0
+('mayonnaise', 'nonfat milk')    ->       {'salmon'}        confidence :  100.0
+('mayonnaise', 'whole wheat rice')    ->       {'pancakes'}        confidence :  75.0
+('mayonnaise', 'salmon')    ->       {'spaghetti'}        confidence :  75.0
+('mayonnaise', 'tomatoes')    ->       {'spaghetti'}        confidence :  80.0
+('meatballs', 'rice')    ->       {'milk'}        confidence :  100.0
+('meatballs', 'whole wheat pasta')    ->       {'milk'}        confidence :  83.33333333333334
+('meatballs', 'olive oil')    ->       {'mineral water'}        confidence :  72.22222222222221
+('meatballs', 'pepper')    ->       {'mineral water'}        confidence :  75.0
+('meatballs', 'tomato sauce')    ->       {'mineral water'}        confidence :  100.0
+('meatballs', 'pasta')    ->       {'shrimp'}        confidence :  100.0
+('meatballs', 'pepper')    ->       {'turkey'}        confidence :  75.0
+('meatballs', 'red wine')    ->       {'spaghetti'}        confidence :  100.0
+('meatballs', 'red wine')    ->       {'tomatoes'}        confidence :  75.0
+('meatballs', 'rice')    ->       {'spaghetti'}        confidence :  100.0
+('meatballs', 'salad')    ->       {'shrimp'}        confidence :  100.0
+('meatballs', 'strong cheese')    ->       {'spaghetti'}        confidence :  100.0
+('melons', 'oil')    ->       {'mineral water'}        confidence :  75.0
+('mint green tea', 'rice')    ->       {'melons'}        confidence :  100.0
+('milk', 'nonfat milk')    ->       {'mineral water'}        confidence :  70.0
+('milk', 'pet food')    ->       {'mineral water'}        confidence :  75.0
+('milk', 'soda')    ->       {'mineral water'}        confidence :  71.42857142857143
+('milk', 'strong cheese')    ->       {'mineral water'}        confidence :  70.58823529411765
+('mint green tea', 'tomatoes')    ->       {'milk'}        confidence :  100.0
+('mint green tea', 'whole wheat rice')    ->       {'milk'}        confidence :  100.0
+('olive oil', 'pet food')    ->       {'milk'}        confidence :  100.0
+('olive oil', 'tea')    ->       {'milk'}        confidence :  100.0
+('parmesan cheese', 'pepper')    ->       {'milk'}        confidence :  75.0
+('parmesan cheese', 'yams')    ->       {'milk'}        confidence :  100.0
+('milk', 'pasta')    ->       {'shrimp'}        confidence :  85.71428571428571
+('rice', 'yogurt cake')    ->       {'milk'}        confidence :  75.0
+('salmon', 'sparkling water')    ->       {'milk'}        confidence :  80.0
+('soup', 'toothpaste')    ->       {'milk'}        confidence :  75.0
+('sparkling water', 'vegetables mix')    ->       {'milk'}        confidence :  100.0
+('strong cheese', 'whole wheat pasta')    ->       {'milk'}        confidence :  75.0
+('tomato sauce', 'white wine')    ->       {'milk'}        confidence :  100.0
+('tomato sauce', 'whole wheat rice')    ->       {'milk'}        confidence :  71.42857142857143
+('mint', 'turkey')    ->       {'mineral water'}        confidence :  75.0
+('muffins', 'sparkling water')    ->       {'mineral water'}        confidence :  100.0
+('mushroom cream sauce', 'whole weat flour')    ->       {'mineral water'}        confidence :  100.0
+('nonfat milk', 'olive oil')    ->       {'mineral water'}        confidence :  75.0
+('nonfat milk', 'parmesan cheese')    ->       {'mineral water'}        confidence :  100.0
+('nonfat milk', 'pepper')    ->       {'mineral water'}        confidence :  87.5
+('nonfat milk', 'salmon')    ->       {'mineral water'}        confidence :  71.42857142857143
+('nonfat milk', 'soup')    ->       {'mineral water'}        confidence :  100.0
+('nonfat milk', 'spaghetti')    ->       {'mineral water'}        confidence :  72.0
+('nonfat milk', 'strawberries')    ->       {'mineral water'}        confidence :  100.0
+('nonfat milk', 'tomatoes')    ->       {'mineral water'}        confidence :  70.0
+('nonfat milk', 'turkey')    ->       {'mineral water'}        confidence :  81.81818181818183
+('nonfat milk', 'white wine')    ->       {'mineral water'}        confidence :  100.0
+('nonfat milk', 'whole wheat rice')    ->       {'mineral water'}        confidence :  100.0
+('oatmeal', 'tomato juice')    ->       {'mineral water'}        confidence :  100.0
+('oil', 'yogurt cake')    ->       {'mineral water'}        confidence :  75.0
+('pancakes', 'tomato sauce')    ->       {'mineral water'}        confidence :  80.0
+('parmesan cheese', 'toothpaste')    ->       {'mineral water'}        confidence :  100.0
+('mineral water', 'pasta')    ->       {'shrimp'}        confidence :  75.0
+('pet food', 'tomato juice')    ->       {'mineral water'}        confidence :  100.0
+('pickles', 'turkey')    ->       {'mineral water'}        confidence :  100.0
+('protein bar', 'shrimp')    ->       {'mineral water'}        confidence :  72.72727272727273
+('protein bar', 'white wine')    ->       {'mineral water'}        confidence :  100.0
+('red wine', 'soup')    ->       {'mineral water'}        confidence :  93.33333333333333
+('red wine', 'turkey')    ->       {'mineral water'}        confidence :  72.72727272727273
+('red wine', 'yams')    ->       {'mineral water'}        confidence :  80.0
+('red wine', 'zucchini')    ->       {'mineral water'}        confidence :  80.0
+('rice', 'salad')    ->       {'mineral water'}        confidence :  100.0
+('rice', 'spinach')    ->       {'mineral water'}        confidence :  75.0
+('rice', 'strawberries')    ->       {'mineral water'}        confidence :  100.0
+('rice', 'yogurt cake')    ->       {'mineral water'}        confidence :  75.0
+('salad', 'spaghetti')    ->       {'mineral water'}        confidence :  75.0
+('salmon', 'tea')    ->       {'mineral water'}        confidence :  100.0
+('salmon', 'toothpaste')    ->       {'mineral water'}        confidence :  100.0
+('salmon', 'zucchini')    ->       {'mineral water'}        confidence :  71.42857142857143
+('shampoo', 'tomato juice')    ->       {'mineral water'}        confidence :  100.0
+('shampoo', 'whole wheat rice')    ->       {'mineral water'}        confidence :  75.0
+('shrimp', 'strong cheese')    ->       {'mineral water'}        confidence :  87.5
+('spaghetti', 'spinach')    ->       {'mineral water'}        confidence :  71.42857142857143
+('sparkling water', 'spinach')    ->       {'mineral water'}        confidence :  100.0
+('strawberries', 'yams')    ->       {'mineral water'}        confidence :  100.0
+('tomato sauce', 'whole weat flour')    ->       {'mineral water'}        confidence :  75.0
+('tomatoes', 'zucchini')    ->       {'mineral water'}        confidence :  100.0
+('toothpaste', 'whole wheat pasta')    ->       {'mineral water'}        confidence :  100.0
+('turkey', 'whole wheat pasta')    ->       {'mineral water'}        confidence :  84.61538461538461
+('whole weat flour', 'whole wheat rice')    ->       {'mineral water'}        confidence :  71.42857142857143
+('yogurt cake', 'zucchini')    ->       {'mineral water'}        confidence :  100.0
+('mint green tea', 'mushroom cream sauce')    ->       {'spaghetti'}        confidence :  100.0
+('mint green tea', 'olive oil')    ->       {'spaghetti'}        confidence :  80.0
+('mint green tea', 'tomatoes')    ->       {'soup'}        confidence :  100.0
+('muffins', 'oatmeal')    ->       {'pasta'}        confidence :  100.0
+('oatmeal', 'pasta')    ->       {'muffins'}        confidence :  100.0
+('muffins', 'oatmeal')    ->       {'whole wheat rice'}        confidence :  100.0
+('mushroom cream sauce', 'whole weat flour')    ->       {'pancakes'}        confidence :  100.0
+('mushroom cream sauce', 'tomato sauce')    ->       {'spaghetti'}        confidence :  100.0
+('mushroom cream sauce', 'turkey')    ->       {'spaghetti'}        confidence :  83.33333333333334
+('mushroom cream sauce', 'yams')    ->       {'spaghetti'}        confidence :  100.0
+('nonfat milk', 'parmesan cheese')    ->       {'spaghetti'}        confidence :  100.0
+('nonfat milk', 'parmesan cheese')    ->       {'tomatoes'}        confidence :  100.0
+('nonfat milk', 'parmesan cheese')    ->       {'vegetables mix'}        confidence :  100.0
+('nonfat milk', 'white wine')    ->       {'spaghetti'}        confidence :  100.0
+('nonfat milk', 'whole wheat rice')    ->       {'spaghetti'}        confidence :  75.0
+('oatmeal', 'pasta')    ->       {'whole wheat rice'}        confidence :  100.0
+('oil', 'pasta')    ->       {'shrimp'}        confidence :  75.0
+('pepper', 'salt')    ->       {'oil'}        confidence :  100.0
+('spinach', 'tomato juice')    ->       {'oil'}        confidence :  75.0
+('olive oil', 'whole weat flour')    ->       {'pancakes'}        confidence :  75.0
+('olive oil', 'sandwich')    ->       {'spaghetti'}        confidence :  100.0
+('olive oil', 'strong cheese')    ->       {'spaghetti'}        confidence :  72.72727272727273
+('olive oil', 'tea')    ->       {'spaghetti'}        confidence :  100.0
+('olive oil', 'whole weat flour')    ->       {'spaghetti'}        confidence :  100.0
+('white wine', 'whole wheat pasta')    ->       {'olive oil'}        confidence :  75.0
+('pancakes', 'pasta')    ->       {'shrimp'}        confidence :  80.0
+('pancakes', 'pet food')    ->       {'turkey'}        confidence :  80.0
+('rice', 'toothpaste')    ->       {'pancakes'}        confidence :  75.0
+('pancakes', 'sandwich')    ->       {'spaghetti'}        confidence :  75.0
+('parmesan cheese', 'pasta')    ->       {'shrimp'}        confidence :  100.0
+('parmesan cheese', 'pepper')    ->       {'spaghetti'}        confidence :  100.0
+('parmesan cheese', 'pet food')    ->       {'spaghetti'}        confidence :  100.0
+('parmesan cheese', 'pickles')    ->       {'spaghetti'}        confidence :  100.0
+('parmesan cheese', 'protein bar')    ->       {'spaghetti'}        confidence :  75.0
+('parmesan cheese', 'red wine')    ->       {'spaghetti'}        confidence :  71.42857142857143
+('parmesan cheese', 'vegetables mix')    ->       {'spaghetti'}        confidence :  75.0
+('parmesan cheese', 'yams')    ->       {'spaghetti'}        confidence :  100.0
+('parmesan cheese', 'yams')    ->       {'whole wheat pasta'}        confidence :  100.0
+('pasta', 'pepper')    ->       {'shrimp'}        confidence :  80.0
+('pasta', 'salmon')    ->       {'shrimp'}        confidence :  75.0
+('pasta', 'soup')    ->       {'shrimp'}        confidence :  100.0
+('pepper', 'tea')    ->       {'spaghetti'}        confidence :  75.0
+('pet food', 'tomato juice')    ->       {'red wine'}        confidence :  100.0
+('pet food', 'white wine')    ->       {'spaghetti'}        confidence :  100.0
+('pet food', 'whole wheat pasta')    ->       {'spaghetti'}        confidence :  100.0
+('pickles', 'turkey')    ->       {'spaghetti'}        confidence :  100.0
+('protein bar', 'tomato sauce')    ->       {'salmon'}        confidence :  100.0
+('protein bar', 'whole wheat pasta')    ->       {'spaghetti'}        confidence :  75.0
+('salt', 'tomato sauce')    ->       {'red wine'}        confidence :  100.0
+('red wine', 'strong cheese')    ->       {'spaghetti'}        confidence :  100.0
+('red wine', 'tomatoes')    ->       {'spaghetti'}        confidence :  72.22222222222221
+('red wine', 'zucchini')    ->       {'whole wheat rice'}        confidence :  80.0
+('sparkling water', 'vegetables mix')    ->       {'salmon'}        confidence :  100.0
+('salt', 'spinach')    ->       {'soup'}        confidence :  100.0
+('salt', 'spinach')    ->       {'turkey'}        confidence :  100.0
+('sandwich', 'whole wheat rice')    ->       {'spaghetti'}        confidence :  100.0
+('shampoo', 'tomato juice')    ->       {'spaghetti'}        confidence :  75.0
+('shrimp', 'tomato sauce')    ->       {'spaghetti'}        confidence :  75.0
+('soda', 'turkey')    ->       {'spaghetti'}        confidence :  75.0
+('soup', 'spinach')    ->       {'spaghetti'}        confidence :  75.0
+('soup', 'toothpaste')    ->       {'spaghetti'}        confidence :  75.0
+('soup', 'zucchini')    ->       {'spaghetti'}        confidence :  75.0
+('tea', 'tomatoes')    ->       {'spaghetti'}        confidence :  80.0
+('tomato juice', 'zucchini')    ->       {'spaghetti'}        confidence :  100.0
+('tomato sauce', 'white wine')    ->       {'spaghetti'}        confidence :  100.0
+('tomato sauce', 'whole wheat rice')    ->       {'spaghetti'}        confidence :  71.42857142857143
+('turkey', 'whole weat flour')    ->       {'spaghetti'}        confidence :  75.0
